@@ -12,6 +12,9 @@ class Settings(BaseSettings):
     environment: Literal["local", "staging", "production"] = "local"
     log_level: str = "INFO"
 
+    database_url: str = "postgresql+psycopg://terminal:terminal@localhost:5433/terminal_assistant"
+    test_database_url: str = "postgresql+psycopg://terminal:terminal@localhost:5433/terminal_assistant_test"
+
 
 @lru_cache
 def get_settings() -> Settings:

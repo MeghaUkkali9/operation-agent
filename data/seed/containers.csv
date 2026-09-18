@@ -1,0 +1,1401 @@
+id,container_number,vessel_id,container_type,status,destination,weight,priority,terminal,arrival_date
+1,ZTCU6233774,75,reefer,delayed,Piraeus,12313.02,normal,Terminal A,2026-02-09
+2,JHDU5074336,76,standard,dispatched,Vancouver,22943.73,high,Terminal B,2026-01-07
+3,WLMU8186990,45,reefer,in_yard,Long Beach,2328.96,normal,Terminal A,2026-08-10
+4,VNKU7076506,14,reefer,dispatched,Hamburg,13322.67,normal,Terminal B,2026-03-05
+5,BFPU9111742,79,standard,dispatched,Durban,8978.28,high,Terminal A,2026-08-24
+6,VNKU5091349,36,dangerous_goods,loaded,Piraeus,10746.31,normal,Terminal B,2026-04-07
+7,VNKU4558780,24,standard,in_yard,Antwerp,24888.32,normal,Terminal C,2026-05-01
+8,ZTCU9667566,72,flat_rack,in_yard,Tanjung Pelepas,14703.02,high,Terminal C,2026-05-21
+9,JHDU9234615,83,standard,in_yard,Ningbo,7761.51,normal,Terminal B,2026-03-09
+10,WLMU7191135,85,standard,loaded,Tanjung Pelepas,27912.42,normal,Terminal A,2026-04-10
+11,VNKU5545223,90,standard,in_yard,Santos,10204.25,normal,Terminal B,2026-07-21
+12,OPXU9123504,25,standard,loaded,Algeciras,17516.56,urgent,Terminal C,2026-06-24
+13,OPXU7054579,38,standard,in_yard,Nhava Sheva,5291.16,low,Terminal C,2026-05-31
+14,QRSU3118618,71,reefer,dispatched,Los Angeles,24690.71,normal,Terminal C,2026-01-04
+15,VNKU6716097,62,standard,in_yard,Valencia,4966.27,low,Terminal A,2026-02-04
+16,WLMU1899411,10,standard,dispatched,Ningbo,4214.7,normal,Terminal A,2026-07-01
+17,WLMU4786401,78,dangerous_goods,loaded,Felixstowe,9731.18,normal,Terminal A,2026-08-13
+18,WLMU2010496,40,reefer,dispatched,Santos,18263.39,normal,Terminal A,2026-06-21
+19,OPXU3916107,21,reefer,in_yard,Tanjung Pelepas,13713.1,normal,Terminal A,2026-05-31
+20,OPXU5833597,5,reefer,dispatched,Felixstowe,3850.67,normal,Terminal A,2026-07-28
+21,BFPU4318855,101,standard,loaded,Hamburg,25618.7,high,Terminal A,2026-02-10
+22,OPXU6160869,8,reefer,dispatched,Ningbo,13417.99,normal,Terminal B,2026-07-07
+23,VNKU5567533,90,standard,loaded,Shanghai,17548.95,high,Terminal B,2026-07-22
+24,QRSU1433940,78,standard,damaged,Durban,17265.2,low,Terminal A,2026-08-13
+25,ZTCU3939212,74,standard,dispatched,Antwerp,6718.72,normal,Terminal B,2026-07-20
+26,VNKU6837817,12,standard,in_yard,Los Angeles,24301.06,normal,Terminal B,2026-06-13
+27,JHDU7718473,37,dangerous_goods,loaded,Felixstowe,4289.55,normal,Terminal C,2026-02-27
+28,VNKU9633492,99,dangerous_goods,in_yard,Nhava Sheva,14011.38,low,Terminal C,2026-07-26
+29,BFPU9363326,80,reefer,dispatched,Santos,8943.46,low,Terminal B,2026-06-19
+30,JHDU9132114,57,standard,damaged,Vancouver,22782.16,normal,Terminal B,2026-06-03
+31,ZTCU7844947,71,standard,damaged,Los Angeles,13997.65,low,Terminal C,2026-01-03
+32,JHDU5896624,64,standard,in_yard,Valencia,27486.36,normal,Terminal C,2026-07-26
+33,OPXU9526867,50,reefer,in_yard,Shanghai,9182.43,high,Terminal B,2026-04-11
+34,BFPU9518424,44,standard,in_yard,Ningbo,23774.37,normal,Terminal C,2026-06-18
+35,OPXU8491822,111,standard,in_yard,Nhava Sheva,21834.69,normal,Terminal B,2026-03-29
+36,OPXU5006492,112,reefer,in_yard,Tanjung Pelepas,3134.83,normal,Terminal C,2026-01-08
+37,JHDU3551903,50,standard,in_yard,Algeciras,27099.19,normal,Terminal B,2026-04-10
+38,BFPU8387112,112,standard,delayed,Rotterdam,20783.54,normal,Terminal C,2026-01-07
+39,VNKU5446344,10,standard,dispatched,Shanghai,24145.9,high,Terminal A,2026-07-01
+40,JHDU9186400,41,open_top,in_yard,Shanghai,8104.03,normal,Terminal A,2026-08-15
+41,JHDU2516313,30,standard,in_yard,Los Angeles,13535.64,normal,Terminal A,2026-06-03
+42,QRSU1941524,6,standard,loaded,Hamburg,8349.13,normal,Terminal B,2026-03-29
+43,OPXU2324869,22,reefer,loaded,Busan,14939.35,normal,Terminal A,2026-01-24
+44,JHDU5261032,60,standard,dispatched,Felixstowe,25431.45,normal,Terminal A,2026-04-28
+45,VNKU6797629,10,flat_rack,in_yard,Tanjung Pelepas,19948.15,normal,Terminal A,2026-07-01
+46,VNKU9106886,26,standard,loaded,Colombo,16945.11,urgent,Terminal A,2026-03-30
+47,BFPU7640518,3,standard,loaded,Singapore,25676.04,normal,Terminal C,2026-01-25
+48,BFPU4860745,100,reefer,loaded,Santos,18143.17,normal,Terminal C,2026-07-28
+49,ZTCU1661401,81,standard,loaded,Durban,11486.39,low,Terminal C,2026-07-18
+50,JHDU7970985,42,standard,in_yard,Nhava Sheva,24787.98,normal,Terminal A,2026-07-27
+51,OPXU5311242,107,open_top,delayed,Ningbo,21410.54,normal,Terminal C,2026-06-28
+52,ZTCU3361510,60,dangerous_goods,in_yard,Piraeus,27149.01,high,Terminal A,2026-04-29
+53,BFPU7619862,12,standard,loaded,Felixstowe,11583.23,normal,Terminal B,2026-06-13
+54,VNKU7232293,75,standard,in_yard,Rotterdam,18108.22,urgent,Terminal A,2026-02-10
+55,WLMU4713925,118,reefer,dispatched,Felixstowe,25644.08,normal,Terminal A,2026-03-04
+56,OPXU1760793,15,flat_rack,in_yard,Valencia,5019.13,normal,Terminal B,2026-06-26
+57,VNKU7224540,50,reefer,dispatched,Nhava Sheva,12897.3,normal,Terminal B,2026-04-10
+58,VNKU2661307,114,dangerous_goods,dispatched,Antwerp,2850.62,normal,Terminal B,2026-04-28
+59,OPXU7084862,57,standard,dispatched,Nhava Sheva,25444.1,normal,Terminal B,2026-06-02
+60,QRSU4184459,51,flat_rack,delayed,Felixstowe,4383.51,normal,Terminal B,2026-06-28
+61,BFPU6595355,7,standard,in_yard,Durban,7335.34,high,Terminal B,2026-04-08
+62,OPXU4909069,76,standard,in_yard,Vancouver,2073.72,high,Terminal B,2026-01-07
+63,WLMU5205279,17,dangerous_goods,in_yard,Rotterdam,5426.88,normal,Terminal C,2026-04-13
+64,QRSU1264762,76,standard,in_yard,Tanjung Pelepas,15678.22,normal,Terminal B,2026-01-08
+65,BFPU7074006,58,standard,in_yard,Algeciras,7760.29,normal,Terminal B,2026-05-26
+66,JHDU1522621,59,standard,loaded,Piraeus,13083.11,low,Terminal C,2026-03-04
+67,ZTCU6404139,10,reefer,in_yard,Antwerp,18232.25,normal,Terminal A,2026-07-01
+68,WLMU9901266,49,standard,loaded,Tanjung Pelepas,4578.64,normal,Terminal A,2026-02-24
+69,VNKU4833486,56,standard,dispatched,Piraeus,12815.73,low,Terminal C,2026-04-15
+70,JHDU5276341,41,standard,in_yard,Valencia,3745.47,high,Terminal A,2026-08-14
+71,ZTCU7251976,56,dangerous_goods,loaded,Durban,26872.24,normal,Terminal C,2026-04-14
+72,QRSU8095702,53,open_top,dispatched,Ningbo,17610.66,normal,Terminal C,2026-01-16
+73,JHDU9089795,20,standard,in_yard,Nhava Sheva,11556.59,high,Terminal C,2026-05-24
+74,VNKU1440466,104,reefer,dispatched,Antwerp,2752.78,normal,Terminal B,2026-01-22
+75,QRSU6889195,118,standard,delayed,Durban,19090.96,low,Terminal A,2026-03-03
+76,JHDU9900022,12,standard,loaded,Long Beach,6092.64,normal,Terminal B,2026-06-13
+77,WLMU2425342,100,open_top,in_yard,Vancouver,3293.82,low,Terminal C,2026-07-29
+78,VNKU9148051,85,reefer,loaded,Santos,21628.52,low,Terminal A,2026-04-10
+79,QRSU9164342,15,standard,in_yard,Busan,12276.85,normal,Terminal B,2026-06-26
+80,QRSU4543918,27,dangerous_goods,dispatched,Ningbo,10531.18,low,Terminal A,2026-07-05
+81,OPXU7378822,23,standard,in_yard,Nhava Sheva,23667.21,high,Terminal B,2026-07-22
+82,BFPU1709714,51,standard,loaded,Shanghai,24414.86,normal,Terminal B,2026-06-29
+83,JHDU8007741,91,standard,loaded,Long Beach,6468.7,urgent,Terminal C,2026-02-25
+84,JHDU7070880,107,standard,dispatched,Busan,13327.59,normal,Terminal C,2026-06-28
+85,BFPU6205543,51,reefer,in_yard,Jebel Ali,3985.86,normal,Terminal B,2026-06-28
+86,BFPU6861544,116,standard,damaged,Hamburg,8142.99,low,Terminal C,2026-02-27
+87,WLMU3564729,23,dangerous_goods,dispatched,Jebel Ali,26733.6,normal,Terminal B,2026-07-23
+88,WLMU8531380,97,reefer,delayed,Vancouver,10403.41,urgent,Terminal A,2026-01-03
+89,VNKU2145653,20,standard,dispatched,Antwerp,17376.91,normal,Terminal C,2026-05-24
+90,VNKU8581856,40,standard,loaded,Ningbo,3995.01,high,Terminal A,2026-06-21
+91,WLMU9507186,79,standard,loaded,Singapore,13693.08,high,Terminal A,2026-08-24
+92,WLMU8979730,42,standard,damaged,Felixstowe,4691.05,high,Terminal A,2026-07-27
+93,ZTCU9464927,92,reefer,in_yard,Felixstowe,27765.64,normal,Terminal C,2026-01-22
+94,QRSU5746166,47,standard,dispatched,Vancouver,3361.5,normal,Terminal C,2026-08-10
+95,QRSU2585546,9,reefer,loaded,Antwerp,20817.08,normal,Terminal B,2026-03-17
+96,ZTCU3372774,43,open_top,in_yard,Piraeus,5352.74,normal,Terminal C,2026-04-01
+97,WLMU7319630,40,reefer,in_yard,Hamburg,19423.03,high,Terminal A,2026-06-21
+98,JHDU8103580,83,standard,in_yard,Ningbo,6686.84,normal,Terminal B,2026-03-09
+99,OPXU3307963,25,standard,in_yard,Los Angeles,15199.93,normal,Terminal C,2026-06-24
+100,QRSU3198638,85,reefer,in_yard,Jebel Ali,23614.97,high,Terminal A,2026-04-09
+101,VNKU1733037,93,standard,dispatched,Busan,27209.3,normal,Terminal A,2026-01-25
+102,WLMU5012581,30,standard,dispatched,Valencia,25503.33,low,Terminal A,2026-06-04
+103,BFPU5727345,60,dangerous_goods,loaded,Tanjung Pelepas,27122.97,high,Terminal A,2026-04-28
+104,QRSU1875431,112,reefer,delayed,Nhava Sheva,26291.63,normal,Terminal C,2026-01-07
+105,ZTCU3689594,37,standard,delayed,Hamburg,23607.21,low,Terminal C,2026-02-27
+106,VNKU6865064,105,flat_rack,loaded,Piraeus,15052.18,normal,Terminal B,2026-06-30
+107,OPXU1472908,48,standard,in_yard,Long Beach,22575.9,low,Terminal A,2026-01-05
+108,BFPU8926478,118,reefer,in_yard,Valencia,13663.64,low,Terminal A,2026-03-03
+109,QRSU4618086,3,dangerous_goods,loaded,Vancouver,15722.06,low,Terminal C,2026-01-25
+110,QRSU3044276,31,standard,loaded,Vancouver,13884.95,low,Terminal A,2026-08-14
+111,WLMU1275739,77,reefer,loaded,Hamburg,9573.07,low,Terminal C,2026-04-17
+112,WLMU7988844,31,standard,dispatched,Algeciras,27341.02,low,Terminal A,2026-08-13
+113,BFPU8887557,50,standard,loaded,Colombo,8594.91,low,Terminal B,2026-04-10
+114,OPXU2739191,45,dangerous_goods,dispatched,Long Beach,5468.65,normal,Terminal A,2026-08-10
+115,JHDU3937508,105,dangerous_goods,dispatched,Valencia,18425.13,high,Terminal B,2026-06-30
+116,BFPU8678589,92,standard,in_yard,Santos,25030.55,normal,Terminal C,2026-01-23
+117,VNKU8942330,66,standard,dispatched,Santos,9438.88,high,Terminal A,2026-08-16
+118,JHDU6568772,111,standard,dispatched,Tanjung Pelepas,25126.65,normal,Terminal B,2026-03-29
+119,OPXU9324908,44,reefer,loaded,Algeciras,8934.74,low,Terminal C,2026-06-18
+120,VNKU4027557,11,standard,in_yard,Shanghai,10525.92,normal,Terminal B,2026-01-22
+121,JHDU8149041,78,standard,loaded,Felixstowe,3101.23,high,Terminal A,2026-08-13
+122,VNKU5606274,79,reefer,dispatched,Singapore,3951.07,normal,Terminal A,2026-08-25
+123,BFPU3684131,66,flat_rack,in_yard,Vancouver,19630.31,normal,Terminal A,2026-08-16
+124,OPXU7145971,9,standard,delayed,Singapore,17732.47,normal,Terminal B,2026-03-18
+125,VNKU2289923,48,reefer,loaded,Piraeus,10174.02,normal,Terminal A,2026-01-04
+126,JHDU4121368,4,standard,loaded,Nhava Sheva,5061.79,high,Terminal B,2026-02-21
+127,WLMU5791184,28,reefer,damaged,Santos,5188.57,high,Terminal C,2026-01-29
+128,JHDU8467726,23,flat_rack,dispatched,Long Beach,19363.83,normal,Terminal B,2026-07-23
+129,QRSU3642499,115,reefer,delayed,Jebel Ali,22636.11,normal,Terminal A,2026-08-01
+130,BFPU3329967,26,standard,loaded,Colombo,16404.56,normal,Terminal A,2026-03-29
+131,ZTCU2103070,79,standard,damaged,Valencia,15668.09,high,Terminal A,2026-08-24
+132,QRSU2244282,17,standard,dispatched,Colombo,5336.7,high,Terminal C,2026-04-13
+133,OPXU8258130,99,standard,delayed,Los Angeles,15470.66,normal,Terminal C,2026-07-25
+134,JHDU4782763,42,standard,delayed,Ningbo,23994.28,normal,Terminal A,2026-07-27
+135,JHDU6080553,17,reefer,in_yard,Jebel Ali,17387.02,normal,Terminal C,2026-04-13
+136,WLMU6664316,85,dangerous_goods,loaded,Rotterdam,4111.79,urgent,Terminal A,2026-04-10
+137,OPXU7989166,84,reefer,in_yard,Nhava Sheva,9531.46,urgent,Terminal B,2026-06-03
+138,BFPU7813102,32,standard,in_yard,Singapore,6110.09,normal,Terminal A,2026-01-22
+139,QRSU3410360,27,standard,dispatched,Colombo,27359.73,low,Terminal A,2026-07-05
+140,WLMU2781470,66,standard,loaded,Antwerp,13689.5,low,Terminal A,2026-08-16
+141,VNKU8015136,38,standard,delayed,Jebel Ali,23150.42,urgent,Terminal C,2026-06-01
+142,BFPU3673322,25,standard,loaded,Valencia,24855.97,normal,Terminal C,2026-06-24
+143,WLMU8671057,51,flat_rack,in_yard,Colombo,3265.11,normal,Terminal B,2026-06-29
+144,WLMU1137194,37,dangerous_goods,loaded,Antwerp,20915.21,high,Terminal C,2026-02-28
+145,VNKU1858283,6,reefer,in_yard,Nhava Sheva,9503.64,normal,Terminal B,2026-03-30
+146,WLMU5692934,98,dangerous_goods,dispatched,Vancouver,5089.09,urgent,Terminal C,2026-06-29
+147,BFPU6688907,48,reefer,loaded,Hamburg,7175.5,normal,Terminal A,2026-01-04
+148,ZTCU3299088,6,reefer,dispatched,Algeciras,13881.7,normal,Terminal B,2026-03-29
+149,WLMU6344047,42,standard,damaged,Ningbo,17436.84,normal,Terminal A,2026-07-27
+150,WLMU6029651,91,standard,in_yard,Long Beach,19518.97,urgent,Terminal C,2026-02-25
+151,JHDU1447065,102,reefer,in_yard,Durban,17018.49,normal,Terminal A,2026-03-13
+152,WLMU7378535,22,standard,dispatched,Singapore,16886.83,normal,Terminal A,2026-01-24
+153,VNKU6262886,3,standard,loaded,Santos,12669.81,high,Terminal C,2026-01-25
+154,BFPU2044906,112,reefer,loaded,Nhava Sheva,10451.29,normal,Terminal C,2026-01-08
+155,OPXU8711874,41,open_top,in_yard,Colombo,19572.58,high,Terminal A,2026-08-15
+156,VNKU4225657,79,flat_rack,in_yard,Ningbo,7846.54,urgent,Terminal A,2026-08-25
+157,QRSU4477544,99,reefer,loaded,Valencia,11068.88,urgent,Terminal C,2026-07-26
+158,ZTCU7370211,37,open_top,loaded,Colombo,26819.83,high,Terminal C,2026-02-28
+159,QRSU2325893,6,standard,loaded,Antwerp,21430.8,normal,Terminal B,2026-03-30
+160,WLMU5557052,120,standard,dispatched,Durban,8221.33,low,Terminal A,2026-07-29
+161,OPXU1880654,82,standard,in_yard,Valencia,4614.17,high,Terminal A,2026-08-04
+162,OPXU7826774,71,reefer,delayed,Valencia,14413.66,low,Terminal C,2026-01-04
+163,QRSU1992583,42,open_top,in_yard,Durban,8037.73,normal,Terminal A,2026-07-26
+164,OPXU8010946,117,open_top,in_yard,Singapore,27926.47,normal,Terminal A,2026-01-09
+165,JHDU5856449,24,open_top,in_yard,Durban,17672.36,high,Terminal C,2026-05-01
+166,VNKU9796605,37,standard,delayed,Algeciras,14168.54,low,Terminal C,2026-02-27
+167,OPXU8699307,43,reefer,dispatched,Rotterdam,21152.07,high,Terminal C,2026-04-01
+168,WLMU7802999,23,dangerous_goods,loaded,Shanghai,12421.66,low,Terminal B,2026-07-22
+169,QRSU5161539,62,standard,loaded,Felixstowe,21597.67,urgent,Terminal A,2026-02-04
+170,JHDU1191859,75,standard,loaded,Busan,3615.23,low,Terminal A,2026-02-10
+171,VNKU9430894,21,open_top,delayed,Ningbo,19947.55,normal,Terminal A,2026-05-31
+172,WLMU4705235,48,standard,in_yard,Hamburg,13829.45,urgent,Terminal A,2026-01-05
+173,JHDU8899184,54,dangerous_goods,dispatched,Santos,21808.35,normal,Terminal C,2026-08-24
+174,VNKU9861274,68,reefer,in_yard,Durban,4917.43,high,Terminal A,2026-05-10
+175,WLMU3514105,74,standard,delayed,Felixstowe,5022.24,normal,Terminal B,2026-07-20
+176,WLMU8473959,12,dangerous_goods,loaded,Algeciras,12801.04,normal,Terminal B,2026-06-13
+177,BFPU6170227,87,reefer,loaded,Rotterdam,21390.92,normal,Terminal A,2026-03-26
+178,QRSU2069713,55,standard,in_yard,Shanghai,27639.57,normal,Terminal C,2026-02-18
+179,OPXU3272119,53,dangerous_goods,damaged,Tanjung Pelepas,11735.98,high,Terminal C,2026-01-17
+180,VNKU7302286,112,standard,damaged,Nhava Sheva,5457.73,high,Terminal C,2026-01-07
+181,WLMU7594429,23,standard,dispatched,Busan,23705.36,high,Terminal B,2026-07-23
+182,JHDU8115687,60,standard,dispatched,Busan,13976.26,low,Terminal A,2026-04-28
+183,JHDU2893218,120,standard,dispatched,Vancouver,21917.39,high,Terminal A,2026-07-29
+184,OPXU2128954,31,standard,in_yard,Vancouver,19472.61,high,Terminal A,2026-08-13
+185,ZTCU7748892,95,standard,loaded,Singapore,5643.52,urgent,Terminal C,2026-07-16
+186,JHDU6350316,105,reefer,dispatched,Long Beach,8159.5,high,Terminal B,2026-06-30
+187,QRSU5616316,53,standard,delayed,Jebel Ali,18275.82,normal,Terminal C,2026-01-17
+188,QRSU7394713,7,dangerous_goods,in_yard,Tanjung Pelepas,12614.74,normal,Terminal B,2026-04-08
+189,WLMU8944327,97,standard,in_yard,Hamburg,22950.18,high,Terminal A,2026-01-03
+190,WLMU9891787,54,standard,in_yard,Santos,10586.84,low,Terminal C,2026-08-25
+191,QRSU2551288,109,standard,dispatched,Singapore,8980.0,normal,Terminal C,2026-08-02
+192,ZTCU4156856,112,dangerous_goods,loaded,Nhava Sheva,7642.43,normal,Terminal C,2026-01-08
+193,ZTCU4553544,39,flat_rack,damaged,Los Angeles,21418.86,high,Terminal B,2026-02-28
+194,WLMU4431161,90,standard,in_yard,Long Beach,22163.36,normal,Terminal B,2026-07-22
+195,QRSU7033835,40,standard,loaded,Los Angeles,22873.23,normal,Terminal A,2026-06-22
+196,OPXU7219396,118,standard,in_yard,Busan,21272.56,low,Terminal A,2026-03-04
+197,OPXU4291551,38,standard,loaded,Busan,14981.84,normal,Terminal C,2026-06-01
+198,BFPU9197701,33,flat_rack,dispatched,Valencia,13981.55,normal,Terminal B,2026-07-17
+199,OPXU9192588,22,standard,delayed,Singapore,15622.55,high,Terminal A,2026-01-24
+200,JHDU1813936,105,dangerous_goods,loaded,Busan,3767.17,low,Terminal B,2026-06-30
+201,VNKU7261268,65,standard,dispatched,Vancouver,25731.54,normal,Terminal A,2026-06-19
+202,WLMU7901115,1,standard,loaded,Antwerp,15929.19,normal,Terminal A,2026-01-08
+203,OPXU2795437,104,open_top,loaded,Busan,6990.23,normal,Terminal B,2026-01-22
+204,BFPU7658817,35,standard,damaged,Felixstowe,16690.06,urgent,Terminal B,2026-05-19
+205,JHDU2352527,39,reefer,delayed,Singapore,4431.01,normal,Terminal B,2026-03-01
+206,JHDU1158547,8,reefer,in_yard,Tanjung Pelepas,18767.59,normal,Terminal B,2026-07-06
+207,WLMU1713900,115,standard,delayed,Durban,14363.01,low,Terminal A,2026-08-01
+208,QRSU1552000,88,standard,delayed,Rotterdam,26998.2,normal,Terminal C,2026-03-22
+209,ZTCU6021033,119,standard,in_yard,Piraeus,19602.91,normal,Terminal C,2026-03-08
+210,JHDU3347981,97,dangerous_goods,dispatched,Shanghai,15020.61,urgent,Terminal A,2026-01-02
+211,VNKU4894730,13,dangerous_goods,in_yard,Vancouver,26826.32,normal,Terminal A,2026-03-11
+212,JHDU5585666,4,dangerous_goods,loaded,Busan,11251.09,urgent,Terminal B,2026-02-21
+213,JHDU7376562,24,standard,dispatched,Busan,20540.82,low,Terminal C,2026-04-30
+214,JHDU3588336,49,reefer,in_yard,Los Angeles,4379.53,urgent,Terminal A,2026-02-25
+215,BFPU5525929,47,standard,in_yard,Tanjung Pelepas,13669.94,normal,Terminal C,2026-08-10
+216,ZTCU2503554,14,standard,in_yard,Vancouver,22395.41,high,Terminal B,2026-03-04
+217,VNKU7506196,38,dangerous_goods,dispatched,Nhava Sheva,25535.4,urgent,Terminal C,2026-05-31
+218,VNKU3843767,88,standard,in_yard,Valencia,5794.31,low,Terminal C,2026-03-22
+219,QRSU9124053,54,dangerous_goods,loaded,Busan,20743.39,normal,Terminal C,2026-08-24
+220,ZTCU3273137,59,standard,delayed,Long Beach,23881.95,normal,Terminal C,2026-03-04
+221,QRSU8224541,57,dangerous_goods,delayed,Vancouver,5539.24,normal,Terminal B,2026-06-02
+222,QRSU3980258,62,flat_rack,damaged,Ningbo,21106.73,normal,Terminal A,2026-02-03
+223,VNKU5702656,42,dangerous_goods,loaded,Los Angeles,26233.75,low,Terminal A,2026-07-26
+224,BFPU1451577,88,flat_rack,loaded,Santos,13399.83,normal,Terminal C,2026-03-21
+225,BFPU7864256,105,reefer,in_yard,Ningbo,8292.55,normal,Terminal B,2026-07-01
+226,VNKU2240929,102,standard,loaded,Durban,12420.93,normal,Terminal A,2026-03-13
+227,ZTCU7031903,70,reefer,dispatched,Vancouver,18592.69,low,Terminal B,2026-06-13
+228,JHDU6956059,85,standard,dispatched,Durban,27573.81,normal,Terminal A,2026-04-10
+229,QRSU8221845,97,standard,in_yard,Busan,15277.58,normal,Terminal A,2026-01-02
+230,QRSU7562142,58,standard,dispatched,Algeciras,5919.37,urgent,Terminal B,2026-05-26
+231,QRSU7978909,14,open_top,in_yard,Hamburg,11056.54,normal,Terminal B,2026-03-04
+232,VNKU6843509,67,standard,loaded,Felixstowe,10291.65,normal,Terminal A,2026-06-04
+233,BFPU6755892,3,reefer,dispatched,Jebel Ali,26177.98,normal,Terminal C,2026-01-24
+234,OPXU6553084,71,reefer,damaged,Busan,22741.65,normal,Terminal C,2026-01-03
+235,JHDU8250013,82,standard,dispatched,Santos,13688.95,normal,Terminal A,2026-08-04
+236,OPXU4452490,91,standard,dispatched,Shanghai,17011.05,high,Terminal C,2026-02-24
+237,QRSU4306357,47,standard,in_yard,Valencia,15720.59,normal,Terminal C,2026-08-10
+238,VNKU2916496,79,standard,dispatched,Vancouver,6485.72,normal,Terminal A,2026-08-25
+239,WLMU2421902,118,reefer,in_yard,Busan,9939.88,low,Terminal A,2026-03-03
+240,VNKU8016887,66,reefer,loaded,Tanjung Pelepas,6829.6,normal,Terminal A,2026-08-16
+241,OPXU9214830,72,standard,in_yard,Felixstowe,18104.66,high,Terminal C,2026-05-20
+242,OPXU4273712,63,dangerous_goods,damaged,Algeciras,18979.81,normal,Terminal C,2026-02-11
+243,JHDU8446596,54,standard,in_yard,Rotterdam,22692.9,normal,Terminal C,2026-08-24
+244,OPXU5843084,36,standard,loaded,Valencia,16292.88,low,Terminal B,2026-04-06
+245,BFPU7154919,35,standard,dispatched,Felixstowe,16205.19,urgent,Terminal B,2026-05-19
+246,BFPU5152891,95,standard,damaged,Felixstowe,8833.2,high,Terminal C,2026-07-16
+247,BFPU2969410,57,dangerous_goods,in_yard,Durban,19917.47,high,Terminal B,2026-06-03
+248,WLMU3335975,22,dangerous_goods,dispatched,Singapore,16821.93,normal,Terminal A,2026-01-24
+249,JHDU5909595,42,standard,in_yard,Algeciras,27622.7,normal,Terminal A,2026-07-26
+250,BFPU7905438,18,open_top,damaged,Hamburg,20237.09,low,Terminal B,2026-03-22
+251,QRSU5153279,92,dangerous_goods,dispatched,Valencia,5696.46,normal,Terminal C,2026-01-23
+252,VNKU2266952,49,reefer,delayed,Shanghai,12474.12,normal,Terminal A,2026-02-25
+253,VNKU6491002,59,reefer,delayed,Shanghai,21004.23,normal,Terminal C,2026-03-04
+254,ZTCU9966154,109,standard,damaged,Santos,14862.59,normal,Terminal C,2026-08-03
+255,WLMU3191007,44,reefer,loaded,Long Beach,25248.02,high,Terminal C,2026-06-17
+256,JHDU8710502,13,standard,delayed,Jebel Ali,13473.43,low,Terminal A,2026-03-11
+257,JHDU3213134,26,open_top,in_yard,Antwerp,4426.84,normal,Terminal A,2026-03-29
+258,JHDU3777050,48,standard,dispatched,Busan,13160.0,low,Terminal A,2026-01-04
+259,OPXU8999489,1,standard,loaded,Algeciras,19679.55,low,Terminal A,2026-01-08
+260,ZTCU8085252,105,reefer,loaded,Busan,11959.82,normal,Terminal B,2026-06-30
+261,QRSU7166661,14,open_top,in_yard,Hamburg,18680.98,normal,Terminal B,2026-03-04
+262,WLMU1142182,68,reefer,in_yard,Colombo,20783.23,normal,Terminal A,2026-05-10
+263,VNKU8421969,118,open_top,in_yard,Los Angeles,5640.34,low,Terminal A,2026-03-04
+264,VNKU6276495,45,dangerous_goods,in_yard,Shanghai,8452.34,normal,Terminal A,2026-08-10
+265,JHDU1450038,100,dangerous_goods,dispatched,Ningbo,7341.59,normal,Terminal C,2026-07-28
+266,VNKU5958372,96,reefer,dispatched,Busan,14867.08,low,Terminal A,2026-04-10
+267,WLMU2191383,82,standard,damaged,Colombo,26282.03,low,Terminal A,2026-08-05
+268,WLMU3898604,47,dangerous_goods,damaged,Shanghai,2433.92,low,Terminal C,2026-08-10
+269,ZTCU2014499,28,flat_rack,loaded,Ningbo,18342.84,normal,Terminal C,2026-01-29
+270,JHDU7749095,55,standard,loaded,Vancouver,5969.69,low,Terminal C,2026-02-17
+271,OPXU3606795,66,standard,loaded,Shanghai,10064.41,normal,Terminal A,2026-08-16
+272,OPXU2446410,8,open_top,in_yard,Vancouver,17829.64,normal,Terminal B,2026-07-06
+273,ZTCU3302031,16,reefer,in_yard,Colombo,15598.14,high,Terminal A,2026-07-19
+274,QRSU3129542,22,reefer,delayed,Los Angeles,22057.19,low,Terminal A,2026-01-25
+275,WLMU2071594,35,standard,damaged,Shanghai,14899.84,normal,Terminal B,2026-05-19
+276,BFPU3799805,64,standard,in_yard,Los Angeles,25250.98,normal,Terminal C,2026-07-26
+277,JHDU9536665,30,standard,delayed,Rotterdam,8358.34,normal,Terminal A,2026-06-04
+278,OPXU4002466,118,flat_rack,delayed,Nhava Sheva,22881.0,normal,Terminal A,2026-03-04
+279,QRSU5165165,29,standard,dispatched,Antwerp,23475.92,normal,Terminal C,2026-07-15
+280,JHDU1883692,65,standard,dispatched,Singapore,26806.06,low,Terminal A,2026-06-20
+281,QRSU6212643,111,standard,loaded,Rotterdam,11591.9,normal,Terminal B,2026-03-29
+282,WLMU5069884,95,standard,loaded,Valencia,27942.47,high,Terminal C,2026-07-16
+283,ZTCU7879264,20,standard,loaded,Rotterdam,26725.75,low,Terminal C,2026-05-25
+284,JHDU6159172,109,standard,loaded,Busan,12915.21,urgent,Terminal C,2026-08-02
+285,QRSU2560728,92,standard,in_yard,Algeciras,12739.48,high,Terminal C,2026-01-23
+286,ZTCU2603516,96,standard,dispatched,Piraeus,3945.59,normal,Terminal A,2026-04-10
+287,OPXU4972370,85,standard,delayed,Piraeus,20218.87,normal,Terminal A,2026-04-10
+288,QRSU4919346,58,standard,in_yard,Durban,4833.29,low,Terminal B,2026-05-26
+289,QRSU7820148,60,standard,loaded,Santos,13749.84,normal,Terminal A,2026-04-28
+290,OPXU6103880,12,dangerous_goods,dispatched,Singapore,7590.54,high,Terminal B,2026-06-12
+291,JHDU5164420,12,flat_rack,loaded,Singapore,19606.77,normal,Terminal B,2026-06-12
+292,VNKU8586676,4,reefer,loaded,Los Angeles,14013.12,high,Terminal B,2026-02-20
+293,ZTCU2034637,16,dangerous_goods,damaged,Hamburg,7151.46,normal,Terminal A,2026-07-18
+294,WLMU5342289,75,open_top,in_yard,Shanghai,7141.51,normal,Terminal A,2026-02-09
+295,BFPU6562484,12,standard,delayed,Singapore,6367.72,normal,Terminal B,2026-06-13
+296,ZTCU7421134,64,reefer,in_yard,Santos,25615.91,normal,Terminal C,2026-07-27
+297,OPXU1581321,114,reefer,dispatched,Ningbo,14971.18,high,Terminal B,2026-04-28
+298,ZTCU5693862,8,standard,loaded,Algeciras,8477.84,urgent,Terminal B,2026-07-06
+299,BFPU7024901,49,standard,dispatched,Colombo,25729.6,normal,Terminal A,2026-02-25
+300,OPXU1437264,35,standard,in_yard,Antwerp,3523.37,urgent,Terminal B,2026-05-20
+301,WLMU4905100,99,flat_rack,in_yard,Busan,8929.7,high,Terminal C,2026-07-25
+302,OPXU7516648,98,standard,dispatched,Jebel Ali,6578.61,normal,Terminal C,2026-06-29
+303,WLMU1473227,117,reefer,loaded,Durban,16653.77,normal,Terminal A,2026-01-08
+304,BFPU9258194,108,standard,in_yard,Singapore,4346.69,normal,Terminal B,2026-01-02
+305,WLMU9019324,3,standard,delayed,Santos,22967.58,normal,Terminal C,2026-01-24
+306,BFPU6428919,118,standard,in_yard,Hamburg,22133.53,high,Terminal A,2026-03-04
+307,QRSU7636992,10,reefer,in_yard,Long Beach,5547.74,low,Terminal A,2026-07-01
+308,JHDU9173859,102,reefer,in_yard,Nhava Sheva,20032.57,high,Terminal A,2026-03-13
+309,JHDU3941912,29,standard,dispatched,Ningbo,5311.06,normal,Terminal C,2026-07-16
+310,BFPU1543292,109,standard,in_yard,Vancouver,7743.28,normal,Terminal C,2026-08-03
+311,QRSU2305378,19,standard,damaged,Jebel Ali,18540.86,urgent,Terminal A,2026-06-15
+312,ZTCU5449526,58,standard,dispatched,Colombo,8673.11,low,Terminal B,2026-05-25
+313,VNKU8352113,7,reefer,damaged,Tanjung Pelepas,14820.13,normal,Terminal B,2026-04-09
+314,BFPU9044494,13,dangerous_goods,loaded,Busan,6229.07,low,Terminal A,2026-03-10
+315,ZTCU6347182,38,standard,in_yard,Long Beach,6422.74,normal,Terminal C,2026-05-31
+316,ZTCU6669869,71,reefer,dispatched,Valencia,20317.12,normal,Terminal C,2026-01-03
+317,VNKU3635764,78,standard,in_yard,Santos,12641.28,normal,Terminal A,2026-08-13
+318,QRSU5989554,85,standard,in_yard,Durban,16291.23,normal,Terminal A,2026-04-09
+319,ZTCU8174037,47,standard,dispatched,Vancouver,14488.54,low,Terminal C,2026-08-09
+320,JHDU5895783,22,flat_rack,loaded,Los Angeles,10017.19,normal,Terminal A,2026-01-25
+321,JHDU5446036,115,standard,loaded,Jebel Ali,11646.53,normal,Terminal A,2026-08-01
+322,ZTCU5417373,58,standard,in_yard,Antwerp,16670.41,low,Terminal B,2026-05-25
+323,JHDU6767862,11,dangerous_goods,loaded,Durban,7915.33,low,Terminal B,2026-01-22
+324,WLMU8023480,105,flat_rack,dispatched,Valencia,16890.57,normal,Terminal B,2026-07-01
+325,VNKU1582647,11,standard,delayed,Durban,19615.91,normal,Terminal B,2026-01-21
+326,VNKU3900427,97,flat_rack,in_yard,Santos,23019.98,low,Terminal A,2026-01-03
+327,JHDU8304686,11,standard,dispatched,Hamburg,23686.81,normal,Terminal B,2026-01-21
+328,VNKU7666510,12,reefer,delayed,Algeciras,13912.09,high,Terminal B,2026-06-13
+329,VNKU3510581,15,standard,loaded,Los Angeles,26048.13,normal,Terminal B,2026-06-26
+330,QRSU9986438,101,open_top,delayed,Antwerp,11959.13,normal,Terminal A,2026-02-11
+331,OPXU5620682,5,standard,dispatched,Piraeus,3008.35,high,Terminal A,2026-07-28
+332,OPXU1826965,89,reefer,delayed,Colombo,2526.06,high,Terminal A,2026-05-27
+333,QRSU9248001,40,open_top,dispatched,Busan,5494.02,urgent,Terminal A,2026-06-22
+334,BFPU6383277,100,standard,loaded,Shanghai,6886.33,normal,Terminal C,2026-07-29
+335,VNKU9665455,95,open_top,dispatched,Algeciras,22578.75,low,Terminal C,2026-07-17
+336,BFPU9796063,18,open_top,in_yard,Santos,24754.69,normal,Terminal B,2026-03-22
+337,ZTCU8657937,32,standard,loaded,Santos,9123.41,high,Terminal A,2026-01-22
+338,ZTCU1512765,82,standard,loaded,Felixstowe,6617.18,high,Terminal A,2026-08-05
+339,OPXU5339593,45,reefer,dispatched,Ningbo,2713.71,low,Terminal A,2026-08-09
+340,OPXU4776753,110,reefer,in_yard,Tanjung Pelepas,15345.31,high,Terminal B,2026-06-04
+341,OPXU3905824,61,reefer,in_yard,Antwerp,17816.94,urgent,Terminal A,2026-06-10
+342,VNKU6850369,55,standard,in_yard,Ningbo,19607.1,high,Terminal C,2026-02-18
+343,ZTCU1123271,75,standard,dispatched,Colombo,16597.89,normal,Terminal A,2026-02-10
+344,JHDU2813693,39,standard,in_yard,Antwerp,18655.46,high,Terminal B,2026-03-01
+345,JHDU6012883,84,standard,loaded,Busan,25391.86,high,Terminal B,2026-06-03
+346,QRSU3347627,85,reefer,dispatched,Ningbo,8745.08,normal,Terminal A,2026-04-10
+347,ZTCU4186247,95,standard,dispatched,Nhava Sheva,18596.15,normal,Terminal C,2026-07-17
+348,QRSU3851902,65,dangerous_goods,delayed,Jebel Ali,9638.39,normal,Terminal A,2026-06-20
+349,BFPU4071377,93,flat_rack,delayed,Shanghai,7778.59,normal,Terminal A,2026-01-25
+350,BFPU6558579,54,standard,loaded,Felixstowe,24131.56,normal,Terminal C,2026-08-24
+351,OPXU9396617,61,standard,dispatched,Algeciras,9757.25,low,Terminal A,2026-06-09
+352,OPXU6749046,18,standard,loaded,Felixstowe,5723.83,high,Terminal B,2026-03-22
+353,ZTCU9180249,100,standard,damaged,Long Beach,18496.97,low,Terminal C,2026-07-29
+354,BFPU3828735,27,reefer,in_yard,Shanghai,5364.55,normal,Terminal A,2026-07-05
+355,VNKU9009447,52,standard,in_yard,Santos,20997.14,urgent,Terminal C,2026-03-18
+356,BFPU9909268,97,standard,dispatched,Busan,7882.91,high,Terminal A,2026-01-03
+357,ZTCU7434909,17,standard,in_yard,Shanghai,23419.94,normal,Terminal C,2026-04-14
+358,JHDU9728991,59,reefer,in_yard,Hamburg,10911.05,high,Terminal C,2026-03-04
+359,OPXU3766286,97,flat_rack,delayed,Piraeus,2497.24,normal,Terminal A,2026-01-02
+360,JHDU1367643,28,reefer,in_yard,Colombo,20488.86,high,Terminal C,2026-01-29
+361,JHDU5291430,113,dangerous_goods,dispatched,Vancouver,27861.69,normal,Terminal B,2026-04-29
+362,JHDU2942630,7,standard,loaded,Nhava Sheva,8571.2,normal,Terminal B,2026-04-08
+363,JHDU1156104,89,standard,dispatched,Algeciras,9019.41,normal,Terminal A,2026-05-26
+364,BFPU2760168,54,standard,dispatched,Ningbo,4964.33,low,Terminal C,2026-08-24
+365,OPXU5412305,78,dangerous_goods,damaged,Colombo,20289.36,normal,Terminal A,2026-08-12
+366,VNKU4484526,71,reefer,loaded,Busan,2071.19,normal,Terminal C,2026-01-03
+367,WLMU9289690,107,standard,in_yard,Algeciras,3951.25,normal,Terminal C,2026-06-29
+368,OPXU8663014,83,flat_rack,in_yard,Felixstowe,3302.09,high,Terminal B,2026-03-08
+369,QRSU7043399,110,dangerous_goods,in_yard,Los Angeles,4469.96,high,Terminal B,2026-06-04
+370,BFPU3321873,2,reefer,in_yard,Colombo,25257.72,urgent,Terminal B,2026-06-24
+371,JHDU2559464,113,standard,in_yard,Los Angeles,12420.22,urgent,Terminal B,2026-04-30
+372,VNKU9023619,107,dangerous_goods,dispatched,Jebel Ali,4939.47,normal,Terminal C,2026-06-28
+373,OPXU2740017,109,standard,loaded,Durban,19638.22,low,Terminal C,2026-08-03
+374,QRSU1483456,100,open_top,delayed,Hamburg,14560.07,normal,Terminal C,2026-07-29
+375,ZTCU2062602,57,standard,in_yard,Algeciras,21955.75,normal,Terminal B,2026-06-02
+376,BFPU6675742,86,standard,dispatched,Vancouver,4476.3,normal,Terminal A,2026-05-18
+377,QRSU7457158,62,standard,dispatched,Vancouver,3418.72,normal,Terminal A,2026-02-03
+378,BFPU8873361,65,open_top,delayed,Shanghai,21537.18,normal,Terminal A,2026-06-20
+379,ZTCU9504862,36,standard,dispatched,Piraeus,23244.69,low,Terminal B,2026-04-07
+380,WLMU8517846,103,standard,loaded,Long Beach,5086.38,normal,Terminal B,2026-03-15
+381,VNKU7917892,14,standard,loaded,Shanghai,22586.37,urgent,Terminal B,2026-03-05
+382,WLMU4470388,114,reefer,loaded,Long Beach,11446.9,low,Terminal B,2026-04-27
+383,VNKU6569576,109,reefer,dispatched,Valencia,20633.11,normal,Terminal C,2026-08-03
+384,ZTCU4720299,15,standard,loaded,Ningbo,16239.96,normal,Terminal B,2026-06-26
+385,OPXU9261472,6,standard,dispatched,Tanjung Pelepas,4781.0,normal,Terminal B,2026-03-29
+386,BFPU7591709,16,standard,dispatched,Santos,20636.49,low,Terminal A,2026-07-19
+387,JHDU3067274,6,dangerous_goods,loaded,Durban,26860.95,low,Terminal B,2026-03-30
+388,WLMU1814896,1,reefer,loaded,Durban,14556.23,normal,Terminal A,2026-01-07
+389,WLMU3913368,89,reefer,in_yard,Piraeus,19095.57,normal,Terminal A,2026-05-27
+390,VNKU8024028,65,flat_rack,delayed,Busan,9113.49,urgent,Terminal A,2026-06-20
+391,BFPU3237608,58,standard,dispatched,Algeciras,9771.74,normal,Terminal B,2026-05-26
+392,JHDU4646403,92,standard,dispatched,Ningbo,19851.89,high,Terminal C,2026-01-22
+393,JHDU3983202,91,standard,dispatched,Long Beach,20469.17,high,Terminal C,2026-02-25
+394,WLMU8004117,75,reefer,delayed,Nhava Sheva,9434.13,high,Terminal A,2026-02-09
+395,ZTCU1423996,67,standard,in_yard,Singapore,7197.46,high,Terminal A,2026-06-04
+396,JHDU5203716,37,standard,in_yard,Ningbo,7304.02,normal,Terminal C,2026-02-28
+397,VNKU2719329,105,reefer,dispatched,Nhava Sheva,24485.88,normal,Terminal B,2026-07-01
+398,WLMU5825775,31,reefer,in_yard,Piraeus,12076.42,urgent,Terminal A,2026-08-14
+399,ZTCU1217520,71,reefer,in_yard,Felixstowe,23579.57,high,Terminal C,2026-01-04
+400,WLMU4296204,97,dangerous_goods,damaged,Ningbo,13669.19,urgent,Terminal A,2026-01-02
+401,OPXU9620919,24,standard,in_yard,Antwerp,16471.56,low,Terminal C,2026-05-01
+402,QRSU8823741,1,reefer,in_yard,Hamburg,26144.33,normal,Terminal A,2026-01-08
+403,BFPU7007679,63,standard,dispatched,Algeciras,7719.01,low,Terminal C,2026-02-10
+404,WLMU3673793,101,standard,loaded,Shanghai,11084.48,high,Terminal A,2026-02-11
+405,QRSU5925360,43,standard,dispatched,Algeciras,14346.29,normal,Terminal C,2026-04-01
+406,JHDU6805039,15,standard,delayed,Vancouver,25883.79,normal,Terminal B,2026-06-26
+407,QRSU7398370,88,open_top,delayed,Piraeus,8671.35,normal,Terminal C,2026-03-21
+408,WLMU7290752,117,standard,loaded,Valencia,3140.14,high,Terminal A,2026-01-08
+409,WLMU2381527,42,flat_rack,in_yard,Nhava Sheva,15863.35,normal,Terminal A,2026-07-26
+410,JHDU4576485,86,open_top,loaded,Los Angeles,7345.07,high,Terminal A,2026-05-19
+411,BFPU2209981,83,reefer,in_yard,Felixstowe,20638.58,low,Terminal B,2026-03-08
+412,OPXU5226314,7,reefer,loaded,Busan,25685.65,normal,Terminal B,2026-04-09
+413,VNKU8264954,81,standard,loaded,Los Angeles,15905.69,normal,Terminal C,2026-07-17
+414,JHDU1763646,97,reefer,in_yard,Algeciras,4759.52,high,Terminal A,2026-01-03
+415,ZTCU5723078,78,dangerous_goods,loaded,Piraeus,23375.18,low,Terminal A,2026-08-12
+416,OPXU3288101,69,reefer,dispatched,Nhava Sheva,9669.44,normal,Terminal B,2026-04-20
+417,BFPU7260091,87,flat_rack,in_yard,Nhava Sheva,5675.72,low,Terminal A,2026-03-27
+418,WLMU2428191,69,standard,dispatched,Colombo,7505.16,high,Terminal B,2026-04-19
+419,OPXU4704207,21,reefer,in_yard,Los Angeles,6715.31,high,Terminal A,2026-05-30
+420,BFPU8738745,109,reefer,in_yard,Shanghai,8517.88,low,Terminal C,2026-08-03
+421,QRSU3151093,43,reefer,in_yard,Ningbo,18107.41,high,Terminal C,2026-04-02
+422,VNKU6508733,63,reefer,in_yard,Durban,5962.27,normal,Terminal C,2026-02-11
+423,OPXU1081065,55,standard,dispatched,Tanjung Pelepas,9193.68,normal,Terminal C,2026-02-18
+424,VNKU8765307,113,standard,dispatched,Valencia,16343.47,low,Terminal B,2026-04-29
+425,QRSU3348838,108,open_top,in_yard,Shanghai,20913.06,high,Terminal B,2026-01-02
+426,WLMU7797028,105,dangerous_goods,in_yard,Singapore,16341.44,normal,Terminal B,2026-07-01
+427,BFPU3493647,84,standard,in_yard,Durban,21063.9,normal,Terminal B,2026-06-03
+428,WLMU2519244,65,standard,loaded,Busan,24047.53,high,Terminal A,2026-06-19
+429,WLMU3355029,97,standard,in_yard,Durban,19144.75,urgent,Terminal A,2026-01-03
+430,ZTCU4671175,46,dangerous_goods,in_yard,Antwerp,11605.31,low,Terminal A,2026-02-16
+431,BFPU7060792,67,standard,delayed,Singapore,3037.52,normal,Terminal A,2026-06-04
+432,WLMU5588489,91,dangerous_goods,in_yard,Nhava Sheva,16824.16,normal,Terminal C,2026-02-25
+433,WLMU2305896,47,standard,loaded,Busan,15425.67,normal,Terminal C,2026-08-10
+434,BFPU9088465,63,open_top,in_yard,Hamburg,13437.37,normal,Terminal C,2026-02-11
+435,OPXU4135756,28,standard,dispatched,Los Angeles,19188.85,normal,Terminal C,2026-01-29
+436,ZTCU9078508,93,reefer,loaded,Durban,6192.4,high,Terminal A,2026-01-24
+437,ZTCU3145556,32,reefer,in_yard,Algeciras,3018.96,normal,Terminal A,2026-01-21
+438,QRSU4020528,22,standard,loaded,Durban,18578.19,high,Terminal A,2026-01-25
+439,OPXU8536381,11,reefer,loaded,Valencia,6434.74,high,Terminal B,2026-01-21
+440,WLMU4051509,102,reefer,loaded,Jebel Ali,20828.86,normal,Terminal A,2026-03-13
+441,WLMU2154992,77,standard,loaded,Los Angeles,2430.63,normal,Terminal C,2026-04-17
+442,OPXU2615622,106,standard,delayed,Vancouver,3014.95,high,Terminal B,2026-04-30
+443,VNKU3186555,12,open_top,loaded,Rotterdam,25321.19,high,Terminal B,2026-06-13
+444,VNKU7213902,67,open_top,dispatched,Tanjung Pelepas,7966.64,high,Terminal A,2026-06-05
+445,WLMU2639417,45,standard,in_yard,Busan,25662.22,low,Terminal A,2026-08-10
+446,OPXU1091762,33,reefer,dispatched,Durban,15586.06,normal,Terminal B,2026-07-17
+447,OPXU6299951,84,standard,in_yard,Tanjung Pelepas,18940.97,normal,Terminal B,2026-06-03
+448,QRSU5623138,73,flat_rack,loaded,Santos,12743.93,high,Terminal A,2026-01-12
+449,QRSU9116148,23,standard,in_yard,Colombo,22129.06,normal,Terminal B,2026-07-22
+450,BFPU2997927,110,reefer,loaded,Jebel Ali,4607.24,normal,Terminal B,2026-06-05
+451,WLMU1873301,103,standard,damaged,Rotterdam,22913.6,high,Terminal B,2026-03-16
+452,WLMU8304421,119,standard,in_yard,Colombo,4081.03,low,Terminal C,2026-03-08
+453,VNKU9741022,120,standard,damaged,Singapore,26588.61,high,Terminal A,2026-07-30
+454,ZTCU4384085,57,open_top,delayed,Algeciras,9436.17,low,Terminal B,2026-06-02
+455,OPXU1605005,79,standard,dispatched,Jebel Ali,4257.91,normal,Terminal A,2026-08-25
+456,JHDU7629401,46,standard,in_yard,Rotterdam,21160.06,low,Terminal A,2026-02-16
+457,QRSU6840069,71,standard,dispatched,Busan,17765.45,low,Terminal C,2026-01-04
+458,ZTCU5380657,74,standard,loaded,Nhava Sheva,3882.04,normal,Terminal B,2026-07-19
+459,WLMU5323377,103,open_top,dispatched,Durban,8503.68,normal,Terminal B,2026-03-16
+460,VNKU5081447,73,dangerous_goods,damaged,Felixstowe,19721.46,high,Terminal A,2026-01-11
+461,ZTCU5325497,62,standard,dispatched,Busan,19599.74,normal,Terminal A,2026-02-04
+462,QRSU9665502,53,standard,dispatched,Antwerp,8454.7,low,Terminal C,2026-01-17
+463,WLMU3994493,10,standard,loaded,Durban,8995.97,urgent,Terminal A,2026-06-30
+464,JHDU4349848,64,standard,in_yard,Antwerp,7376.24,normal,Terminal C,2026-07-26
+465,WLMU6973148,108,standard,in_yard,Shanghai,19571.12,normal,Terminal B,2026-01-02
+466,BFPU1709057,98,dangerous_goods,loaded,Long Beach,14800.85,urgent,Terminal C,2026-06-29
+467,OPXU9575399,63,standard,in_yard,Durban,5334.39,normal,Terminal C,2026-02-11
+468,WLMU1546310,62,standard,loaded,Jebel Ali,13887.1,low,Terminal A,2026-02-04
+469,JHDU1141240,41,standard,in_yard,Durban,4619.44,normal,Terminal A,2026-08-15
+470,WLMU5409875,24,standard,loaded,Vancouver,10920.51,low,Terminal C,2026-05-01
+471,VNKU7246319,27,standard,loaded,Felixstowe,6677.12,low,Terminal A,2026-07-04
+472,ZTCU5528994,105,dangerous_goods,loaded,Piraeus,7097.64,high,Terminal B,2026-06-30
+473,BFPU1163448,61,standard,loaded,Algeciras,15883.55,normal,Terminal A,2026-06-10
+474,QRSU1800429,39,standard,dispatched,Singapore,7602.15,normal,Terminal B,2026-02-28
+475,JHDU6614605,58,standard,loaded,Nhava Sheva,26227.96,normal,Terminal B,2026-05-25
+476,ZTCU6890320,53,open_top,damaged,Santos,16998.2,normal,Terminal C,2026-01-16
+477,QRSU6957741,100,standard,loaded,Felixstowe,25130.44,normal,Terminal C,2026-07-29
+478,JHDU3430151,60,open_top,dispatched,Long Beach,12967.23,normal,Terminal A,2026-04-29
+479,ZTCU2327277,109,standard,in_yard,Long Beach,18978.34,normal,Terminal C,2026-08-03
+480,VNKU7092894,35,reefer,loaded,Felixstowe,12763.72,low,Terminal B,2026-05-19
+481,JHDU4936391,17,reefer,delayed,Shanghai,7474.86,normal,Terminal C,2026-04-13
+482,VNKU1903041,9,standard,loaded,Shanghai,4702.14,normal,Terminal B,2026-03-17
+483,VNKU6190378,84,standard,dispatched,Felixstowe,18288.5,low,Terminal B,2026-06-02
+484,ZTCU6986802,4,open_top,in_yard,Valencia,14147.03,high,Terminal B,2026-02-21
+485,VNKU3266851,71,flat_rack,dispatched,Jebel Ali,17361.6,normal,Terminal C,2026-01-04
+486,JHDU9955411,68,standard,in_yard,Nhava Sheva,7905.34,low,Terminal A,2026-05-11
+487,VNKU5358838,47,standard,in_yard,Algeciras,23199.87,high,Terminal C,2026-08-10
+488,VNKU9977469,37,standard,delayed,Valencia,9789.87,high,Terminal C,2026-02-28
+489,OPXU1121097,77,standard,in_yard,Nhava Sheva,13364.77,normal,Terminal C,2026-04-17
+490,VNKU4700926,107,standard,loaded,Busan,15431.86,high,Terminal C,2026-06-29
+491,JHDU9924543,37,dangerous_goods,loaded,Shanghai,6742.59,normal,Terminal C,2026-02-28
+492,VNKU5565653,80,reefer,loaded,Long Beach,2504.28,low,Terminal B,2026-06-18
+493,ZTCU5733096,24,standard,dispatched,Rotterdam,8053.07,low,Terminal C,2026-05-01
+494,QRSU8050508,28,standard,dispatched,Colombo,14055.8,high,Terminal C,2026-01-29
+495,BFPU3450947,11,standard,dispatched,Shanghai,16122.99,low,Terminal B,2026-01-22
+496,VNKU1211652,105,standard,dispatched,Busan,12004.75,urgent,Terminal B,2026-06-30
+497,ZTCU4341683,95,standard,dispatched,Algeciras,19316.2,normal,Terminal C,2026-07-17
+498,QRSU6420100,88,standard,dispatched,Nhava Sheva,15544.08,normal,Terminal C,2026-03-22
+499,QRSU1873883,26,open_top,in_yard,Los Angeles,8135.11,normal,Terminal A,2026-03-29
+500,BFPU5632190,22,reefer,loaded,Busan,2232.18,low,Terminal A,2026-01-25
+501,WLMU3600333,89,standard,in_yard,Jebel Ali,14997.9,normal,Terminal A,2026-05-27
+502,BFPU2007511,120,standard,dispatched,Nhava Sheva,22578.12,low,Terminal A,2026-07-29
+503,WLMU6827024,41,dangerous_goods,loaded,Santos,2555.17,normal,Terminal A,2026-08-14
+504,ZTCU9142018,33,reefer,loaded,Nhava Sheva,20122.98,low,Terminal B,2026-07-16
+505,QRSU6430463,70,reefer,in_yard,Vancouver,25776.32,normal,Terminal B,2026-06-13
+506,OPXU8539415,68,standard,in_yard,Colombo,13806.05,high,Terminal A,2026-05-11
+507,OPXU1314067,94,reefer,loaded,Vancouver,8208.45,normal,Terminal B,2026-02-08
+508,WLMU9347489,25,dangerous_goods,in_yard,Ningbo,10387.6,normal,Terminal C,2026-06-24
+509,WLMU2118702,13,standard,delayed,Jebel Ali,24710.81,normal,Terminal A,2026-03-11
+510,ZTCU1533803,25,reefer,dispatched,Valencia,15671.36,normal,Terminal C,2026-06-25
+511,QRSU4703113,7,reefer,in_yard,Santos,19049.48,high,Terminal B,2026-04-08
+512,BFPU2018380,60,standard,dispatched,Tanjung Pelepas,23372.69,high,Terminal A,2026-04-28
+513,WLMU5459646,106,standard,dispatched,Ningbo,4026.32,normal,Terminal B,2026-04-30
+514,JHDU4875838,13,standard,in_yard,Algeciras,19078.79,normal,Terminal A,2026-03-10
+515,JHDU7965641,72,reefer,dispatched,Durban,11307.05,normal,Terminal C,2026-05-21
+516,ZTCU3798595,114,dangerous_goods,loaded,Algeciras,10775.33,low,Terminal B,2026-04-28
+517,QRSU6287423,120,reefer,damaged,Colombo,12720.93,normal,Terminal A,2026-07-30
+518,OPXU4589118,78,standard,loaded,Antwerp,11360.22,normal,Terminal A,2026-08-13
+519,JHDU1581546,1,flat_rack,loaded,Algeciras,5512.23,high,Terminal A,2026-01-07
+520,OPXU4604128,39,open_top,in_yard,Antwerp,25896.91,normal,Terminal B,2026-02-28
+521,ZTCU8723723,13,standard,in_yard,Colombo,25130.26,normal,Terminal A,2026-03-11
+522,QRSU2541912,104,reefer,loaded,Santos,21090.91,normal,Terminal B,2026-01-22
+523,VNKU2599943,23,reefer,in_yard,Durban,11920.2,high,Terminal B,2026-07-23
+524,BFPU8286418,45,standard,delayed,Busan,21439.65,high,Terminal A,2026-08-09
+525,BFPU7417066,82,standard,loaded,Long Beach,16038.17,low,Terminal A,2026-08-04
+526,ZTCU7591477,20,flat_rack,dispatched,Durban,15122.96,normal,Terminal C,2026-05-25
+527,VNKU3483236,101,standard,in_yard,Durban,21378.19,normal,Terminal A,2026-02-11
+528,VNKU9419194,11,standard,dispatched,Hamburg,14503.99,low,Terminal B,2026-01-22
+529,WLMU4290000,84,reefer,damaged,Algeciras,8402.39,low,Terminal B,2026-06-03
+530,JHDU2503148,42,standard,loaded,Colombo,11056.0,normal,Terminal A,2026-07-26
+531,QRSU3839632,99,flat_rack,dispatched,Felixstowe,18202.74,normal,Terminal C,2026-07-25
+532,JHDU7271672,26,standard,dispatched,Shanghai,4921.67,low,Terminal A,2026-03-29
+533,BFPU5826554,112,standard,dispatched,Los Angeles,9933.07,normal,Terminal C,2026-01-08
+534,JHDU4554677,27,standard,loaded,Antwerp,16268.8,normal,Terminal A,2026-07-04
+535,JHDU1308508,89,standard,delayed,Algeciras,3130.53,low,Terminal A,2026-05-27
+536,BFPU5551347,26,standard,dispatched,Rotterdam,3731.54,normal,Terminal A,2026-03-30
+537,ZTCU1320081,111,standard,delayed,Piraeus,8010.38,normal,Terminal B,2026-03-28
+538,QRSU9131281,116,open_top,loaded,Jebel Ali,7170.76,urgent,Terminal C,2026-02-27
+539,OPXU9882115,6,standard,loaded,Jebel Ali,2477.68,normal,Terminal B,2026-03-30
+540,QRSU4962858,81,flat_rack,damaged,Antwerp,23109.21,normal,Terminal C,2026-07-18
+541,BFPU1494355,114,flat_rack,delayed,Busan,5944.41,high,Terminal B,2026-04-27
+542,JHDU7412371,12,standard,dispatched,Busan,12850.67,normal,Terminal B,2026-06-13
+543,WLMU6524481,40,standard,in_yard,Hamburg,17106.8,normal,Terminal A,2026-06-21
+544,OPXU6184132,111,reefer,delayed,Hamburg,13181.67,high,Terminal B,2026-03-28
+545,WLMU3651604,84,standard,loaded,Los Angeles,6787.52,high,Terminal B,2026-06-02
+546,ZTCU6346688,94,open_top,loaded,Tanjung Pelepas,9887.05,normal,Terminal B,2026-02-08
+547,BFPU4153002,20,standard,in_yard,Vancouver,18040.61,normal,Terminal C,2026-05-24
+548,OPXU4874066,77,reefer,loaded,Valencia,5486.25,high,Terminal C,2026-04-17
+549,JHDU7273997,92,standard,loaded,Valencia,5575.33,low,Terminal C,2026-01-22
+550,BFPU1251897,53,open_top,damaged,Busan,21301.53,urgent,Terminal C,2026-01-16
+551,OPXU8369982,9,open_top,loaded,Long Beach,24536.15,high,Terminal B,2026-03-18
+552,BFPU1701728,52,reefer,dispatched,Long Beach,12247.92,urgent,Terminal C,2026-03-17
+553,ZTCU8576751,67,standard,delayed,Busan,15486.27,normal,Terminal A,2026-06-04
+554,VNKU9659168,72,dangerous_goods,damaged,Santos,9570.66,normal,Terminal C,2026-05-21
+555,BFPU5796850,100,standard,loaded,Vancouver,25894.85,normal,Terminal C,2026-07-28
+556,BFPU8578236,60,standard,loaded,Jebel Ali,22247.01,urgent,Terminal A,2026-04-28
+557,VNKU6426773,51,standard,in_yard,Durban,25312.06,high,Terminal B,2026-06-29
+558,QRSU6437072,12,reefer,delayed,Jebel Ali,20677.74,low,Terminal B,2026-06-12
+559,VNKU7089179,91,standard,dispatched,Algeciras,17913.89,low,Terminal C,2026-02-25
+560,BFPU3866974,6,open_top,loaded,Hamburg,6215.23,low,Terminal B,2026-03-29
+561,QRSU6192855,54,reefer,damaged,Ningbo,18287.77,low,Terminal C,2026-08-24
+562,ZTCU5246497,26,standard,loaded,Valencia,16131.03,low,Terminal A,2026-03-30
+563,OPXU8981122,31,standard,loaded,Vancouver,17602.65,normal,Terminal A,2026-08-14
+564,JHDU4483580,80,standard,in_yard,Colombo,2954.75,high,Terminal B,2026-06-19
+565,ZTCU1822609,43,standard,damaged,Jebel Ali,19474.35,normal,Terminal C,2026-04-01
+566,JHDU7042962,59,flat_rack,in_yard,Ningbo,10393.37,high,Terminal C,2026-03-03
+567,VNKU2089275,98,standard,in_yard,Antwerp,10559.42,normal,Terminal C,2026-06-28
+568,OPXU1976175,90,standard,dispatched,Algeciras,27666.92,normal,Terminal B,2026-07-22
+569,WLMU6309796,55,standard,loaded,Vancouver,11200.19,low,Terminal C,2026-02-18
+570,JHDU9350710,67,standard,in_yard,Vancouver,8050.76,normal,Terminal A,2026-06-04
+571,ZTCU1402431,1,standard,dispatched,Santos,22788.67,urgent,Terminal A,2026-01-08
+572,QRSU6866154,6,reefer,dispatched,Rotterdam,18656.08,normal,Terminal B,2026-03-30
+573,ZTCU6163566,102,standard,loaded,Rotterdam,4959.76,normal,Terminal A,2026-03-13
+574,WLMU1488508,93,dangerous_goods,in_yard,Long Beach,25979.27,normal,Terminal A,2026-01-25
+575,ZTCU3277572,103,standard,dispatched,Nhava Sheva,25294.14,normal,Terminal B,2026-03-16
+576,JHDU1939897,119,dangerous_goods,in_yard,Long Beach,16434.61,low,Terminal C,2026-03-08
+577,BFPU6932348,103,standard,in_yard,Rotterdam,10817.96,normal,Terminal B,2026-03-15
+578,WLMU7535837,74,standard,in_yard,Ningbo,20336.92,normal,Terminal B,2026-07-19
+579,VNKU2456225,35,standard,in_yard,Felixstowe,23565.89,normal,Terminal B,2026-05-20
+580,ZTCU7278297,23,dangerous_goods,dispatched,Shanghai,13538.13,low,Terminal B,2026-07-23
+581,WLMU3584996,116,standard,delayed,Algeciras,10069.33,normal,Terminal C,2026-02-27
+582,WLMU3226624,106,standard,in_yard,Piraeus,20555.61,normal,Terminal B,2026-04-30
+583,ZTCU2460891,40,standard,delayed,Los Angeles,15535.02,normal,Terminal A,2026-06-22
+584,WLMU6236888,3,reefer,in_yard,Santos,7006.19,normal,Terminal C,2026-01-25
+585,VNKU2973853,99,standard,in_yard,Los Angeles,2396.67,normal,Terminal C,2026-07-25
+586,WLMU6877363,27,standard,in_yard,Ningbo,16926.16,low,Terminal A,2026-07-05
+587,QRSU8443172,79,standard,in_yard,Singapore,4754.1,low,Terminal A,2026-08-25
+588,OPXU8479891,51,reefer,in_yard,Santos,20535.37,normal,Terminal B,2026-06-28
+589,BFPU8813071,119,reefer,in_yard,Felixstowe,4528.84,normal,Terminal C,2026-03-08
+590,OPXU4754647,61,standard,delayed,Antwerp,25734.4,normal,Terminal A,2026-06-10
+591,BFPU6448586,101,standard,in_yard,Valencia,4935.06,normal,Terminal A,2026-02-10
+592,BFPU6848796,37,reefer,in_yard,Los Angeles,12547.84,normal,Terminal C,2026-02-27
+593,WLMU2189907,42,dangerous_goods,loaded,Piraeus,17353.93,normal,Terminal A,2026-07-26
+594,OPXU9092903,71,standard,in_yard,Durban,13209.86,urgent,Terminal C,2026-01-04
+595,JHDU4962012,70,standard,dispatched,Durban,23755.45,low,Terminal B,2026-06-14
+596,WLMU2638360,42,dangerous_goods,in_yard,Piraeus,3809.8,low,Terminal A,2026-07-27
+597,VNKU2031500,42,standard,dispatched,Durban,25484.66,normal,Terminal A,2026-07-26
+598,OPXU3503436,97,standard,in_yard,Vancouver,17026.22,low,Terminal A,2026-01-03
+599,WLMU6109503,39,open_top,delayed,Colombo,27747.52,normal,Terminal B,2026-03-01
+600,OPXU5935599,109,standard,delayed,Singapore,2021.93,normal,Terminal C,2026-08-03
+601,BFPU5734685,15,open_top,in_yard,Durban,12250.98,normal,Terminal B,2026-06-27
+602,VNKU8301277,52,standard,dispatched,Valencia,5615.79,normal,Terminal C,2026-03-18
+603,VNKU3588175,108,standard,delayed,Hamburg,5491.21,low,Terminal B,2026-01-02
+604,JHDU9165493,19,reefer,damaged,Hamburg,4201.25,normal,Terminal A,2026-06-15
+605,VNKU8142130,111,reefer,loaded,Tanjung Pelepas,16353.3,normal,Terminal B,2026-03-29
+606,OPXU8126489,29,reefer,loaded,Busan,20515.38,normal,Terminal C,2026-07-16
+607,ZTCU9107893,5,reefer,in_yard,Valencia,27005.18,low,Terminal A,2026-07-28
+608,WLMU2312558,60,standard,dispatched,Busan,14283.74,normal,Terminal A,2026-04-28
+609,JHDU6242875,88,reefer,delayed,Nhava Sheva,22241.71,normal,Terminal C,2026-03-22
+610,JHDU6561881,74,standard,damaged,Ningbo,9519.42,low,Terminal B,2026-07-20
+611,BFPU5369510,94,standard,loaded,Jebel Ali,16894.36,normal,Terminal B,2026-02-08
+612,JHDU1457985,104,standard,in_yard,Algeciras,3998.42,high,Terminal B,2026-01-22
+613,WLMU5713926,17,standard,in_yard,Los Angeles,17699.36,high,Terminal C,2026-04-13
+614,VNKU7203657,85,dangerous_goods,in_yard,Busan,14607.88,high,Terminal A,2026-04-09
+615,ZTCU3433874,44,reefer,dispatched,Valencia,21571.79,normal,Terminal C,2026-06-18
+616,JHDU8385078,31,reefer,in_yard,Durban,21093.39,normal,Terminal A,2026-08-14
+617,BFPU2946062,97,standard,loaded,Valencia,9835.55,normal,Terminal A,2026-01-02
+618,JHDU7544296,49,standard,in_yard,Tanjung Pelepas,2308.44,high,Terminal A,2026-02-25
+619,JHDU6296376,49,flat_rack,dispatched,Singapore,4531.47,normal,Terminal A,2026-02-25
+620,VNKU5573311,109,standard,in_yard,Los Angeles,8638.94,normal,Terminal C,2026-08-03
+621,JHDU5056679,99,reefer,loaded,Santos,15518.76,normal,Terminal C,2026-07-25
+622,WLMU1177469,41,reefer,dispatched,Rotterdam,12692.47,normal,Terminal A,2026-08-15
+623,OPXU5752935,45,standard,in_yard,Vancouver,4390.47,urgent,Terminal A,2026-08-09
+624,JHDU3043299,77,reefer,in_yard,Vancouver,5377.59,normal,Terminal C,2026-04-16
+625,ZTCU4091420,115,standard,loaded,Shanghai,18608.29,high,Terminal A,2026-08-02
+626,VNKU6425820,99,standard,dispatched,Antwerp,22204.75,normal,Terminal C,2026-07-26
+627,QRSU5440339,8,standard,in_yard,Santos,17867.85,low,Terminal B,2026-07-07
+628,OPXU8235234,14,standard,dispatched,Felixstowe,20600.41,low,Terminal B,2026-03-04
+629,WLMU5204309,10,dangerous_goods,in_yard,Valencia,5870.21,normal,Terminal A,2026-06-30
+630,VNKU5470062,86,standard,in_yard,Piraeus,16940.65,normal,Terminal A,2026-05-19
+631,VNKU7776531,62,dangerous_goods,dispatched,Shanghai,16043.35,low,Terminal A,2026-02-04
+632,WLMU9980912,16,flat_rack,loaded,Ningbo,12415.98,normal,Terminal A,2026-07-18
+633,WLMU6705306,47,standard,loaded,Ningbo,18842.61,low,Terminal C,2026-08-09
+634,JHDU4204501,50,standard,loaded,Los Angeles,18396.04,normal,Terminal B,2026-04-10
+635,JHDU8348147,114,reefer,in_yard,Santos,2659.48,urgent,Terminal B,2026-04-27
+636,VNKU2056840,63,dangerous_goods,dispatched,Valencia,15882.44,high,Terminal C,2026-02-11
+637,ZTCU6692259,3,standard,dispatched,Singapore,12543.2,normal,Terminal C,2026-01-25
+638,BFPU3499027,87,reefer,in_yard,Shanghai,2958.82,low,Terminal A,2026-03-26
+639,WLMU1768424,61,standard,dispatched,Rotterdam,6478.47,low,Terminal A,2026-06-10
+640,BFPU2632292,106,standard,in_yard,Durban,3662.9,high,Terminal B,2026-04-30
+641,WLMU4700592,64,standard,in_yard,Long Beach,23099.55,urgent,Terminal C,2026-07-27
+642,ZTCU3304005,42,standard,damaged,Santos,21869.92,normal,Terminal A,2026-07-27
+643,ZTCU5595168,9,standard,loaded,Colombo,16388.6,normal,Terminal B,2026-03-17
+644,ZTCU7310431,18,dangerous_goods,in_yard,Valencia,4098.79,low,Terminal B,2026-03-22
+645,JHDU5760225,91,standard,dispatched,Valencia,20001.32,normal,Terminal C,2026-02-25
+646,VNKU7912738,67,standard,in_yard,Singapore,17503.07,normal,Terminal A,2026-06-04
+647,BFPU6053293,81,standard,in_yard,Busan,6989.47,urgent,Terminal C,2026-07-17
+648,QRSU9515120,80,standard,dispatched,Santos,9187.09,low,Terminal B,2026-06-18
+649,BFPU8959326,88,standard,in_yard,Singapore,3404.72,normal,Terminal C,2026-03-21
+650,QRSU6608533,56,reefer,delayed,Felixstowe,3126.25,normal,Terminal C,2026-04-14
+651,BFPU1487633,21,standard,in_yard,Busan,20756.48,normal,Terminal A,2026-05-31
+652,OPXU6464086,54,standard,in_yard,Busan,4549.67,normal,Terminal C,2026-08-24
+653,OPXU2233623,49,standard,loaded,Tanjung Pelepas,5768.47,high,Terminal A,2026-02-25
+654,VNKU7266039,23,standard,dispatched,Colombo,27364.45,normal,Terminal B,2026-07-22
+655,JHDU2000789,5,standard,in_yard,Felixstowe,13923.05,low,Terminal A,2026-07-28
+656,QRSU3630468,29,dangerous_goods,dispatched,Vancouver,25545.03,normal,Terminal C,2026-07-15
+657,VNKU9753827,12,standard,damaged,Durban,14310.71,normal,Terminal B,2026-06-12
+658,VNKU5138170,94,standard,loaded,Busan,25187.39,normal,Terminal B,2026-02-07
+659,WLMU1085187,117,standard,in_yard,Valencia,21070.38,normal,Terminal A,2026-01-09
+660,VNKU9040805,68,dangerous_goods,dispatched,Los Angeles,13763.48,normal,Terminal A,2026-05-10
+661,JHDU7821919,89,flat_rack,in_yard,Ningbo,8215.62,urgent,Terminal A,2026-05-26
+662,JHDU6114309,62,standard,loaded,Durban,21429.45,low,Terminal A,2026-02-04
+663,BFPU3325723,60,open_top,loaded,Colombo,18297.08,normal,Terminal A,2026-04-28
+664,JHDU2186125,111,standard,dispatched,Algeciras,2850.57,normal,Terminal B,2026-03-29
+665,WLMU4475340,90,dangerous_goods,in_yard,Long Beach,21129.78,low,Terminal B,2026-07-22
+666,ZTCU2861709,114,standard,loaded,Singapore,11504.85,low,Terminal B,2026-04-27
+667,JHDU4434507,72,standard,in_yard,Nhava Sheva,4952.5,normal,Terminal C,2026-05-20
+668,JHDU4782209,97,standard,delayed,Algeciras,19685.9,normal,Terminal A,2026-01-02
+669,QRSU8590191,48,standard,loaded,Los Angeles,14224.26,normal,Terminal A,2026-01-05
+670,WLMU7176462,58,dangerous_goods,delayed,Shanghai,6897.19,high,Terminal B,2026-05-25
+671,VNKU3999964,11,standard,damaged,Los Angeles,6283.92,low,Terminal B,2026-01-21
+672,OPXU4426849,64,standard,dispatched,Ningbo,12829.95,normal,Terminal C,2026-07-26
+673,QRSU8048611,61,standard,dispatched,Ningbo,6915.58,low,Terminal A,2026-06-09
+674,WLMU6635087,107,standard,in_yard,Long Beach,14639.86,normal,Terminal C,2026-06-29
+675,QRSU3213824,59,open_top,in_yard,Antwerp,7896.33,normal,Terminal C,2026-03-04
+676,BFPU1793880,99,standard,in_yard,Jebel Ali,18084.39,low,Terminal C,2026-07-26
+677,OPXU3575047,24,standard,in_yard,Long Beach,16937.65,normal,Terminal C,2026-05-01
+678,OPXU1581986,24,reefer,damaged,Hamburg,11695.79,normal,Terminal C,2026-04-30
+679,QRSU3038264,69,open_top,loaded,Valencia,21981.47,urgent,Terminal B,2026-04-20
+680,ZTCU9512910,20,standard,dispatched,Valencia,25295.41,urgent,Terminal C,2026-05-24
+681,WLMU8417300,103,standard,in_yard,Valencia,25404.54,low,Terminal B,2026-03-15
+682,ZTCU7738231,40,reefer,in_yard,Colombo,4404.51,low,Terminal A,2026-06-21
+683,WLMU4726955,75,dangerous_goods,dispatched,Santos,2586.26,normal,Terminal A,2026-02-10
+684,JHDU2465941,87,flat_rack,loaded,Valencia,10261.7,normal,Terminal A,2026-03-26
+685,JHDU7057663,117,standard,dispatched,Tanjung Pelepas,11610.38,normal,Terminal A,2026-01-09
+686,QRSU6168814,45,flat_rack,delayed,Shanghai,7608.07,high,Terminal A,2026-08-10
+687,VNKU5842475,103,standard,dispatched,Tanjung Pelepas,20943.74,normal,Terminal B,2026-03-15
+688,OPXU6087374,19,standard,delayed,Long Beach,3719.01,urgent,Terminal A,2026-06-15
+689,ZTCU7869609,12,reefer,in_yard,Jebel Ali,16451.16,normal,Terminal B,2026-06-12
+690,OPXU7405029,26,standard,loaded,Ningbo,23699.22,normal,Terminal A,2026-03-30
+691,ZTCU1041048,29,standard,in_yard,Valencia,5228.6,normal,Terminal C,2026-07-16
+692,OPXU9252486,54,open_top,dispatched,Rotterdam,5103.22,normal,Terminal C,2026-08-24
+693,JHDU7069317,77,reefer,loaded,Antwerp,18327.9,normal,Terminal C,2026-04-16
+694,WLMU1294357,48,dangerous_goods,in_yard,Singapore,5799.57,normal,Terminal A,2026-01-04
+695,OPXU1887318,46,standard,loaded,Colombo,3266.59,normal,Terminal A,2026-02-16
+696,OPXU4074382,66,dangerous_goods,loaded,Jebel Ali,16136.52,high,Terminal A,2026-08-17
+697,JHDU7082121,35,standard,loaded,Hamburg,2335.34,normal,Terminal B,2026-05-20
+698,VNKU7912120,100,standard,delayed,Los Angeles,7664.78,normal,Terminal C,2026-07-28
+699,WLMU9818990,102,dangerous_goods,dispatched,Los Angeles,12851.0,high,Terminal A,2026-03-12
+700,OPXU1291577,105,standard,in_yard,Colombo,5614.36,normal,Terminal B,2026-07-01
+701,JHDU6111753,23,standard,dispatched,Busan,5346.58,normal,Terminal B,2026-07-22
+702,OPXU4520547,40,standard,in_yard,Los Angeles,4021.12,high,Terminal A,2026-06-22
+703,OPXU2808875,6,standard,dispatched,Durban,3540.9,low,Terminal B,2026-03-30
+704,ZTCU6060776,6,reefer,dispatched,Los Angeles,25922.55,normal,Terminal B,2026-03-29
+705,JHDU6897756,24,standard,in_yard,Antwerp,26668.58,normal,Terminal C,2026-04-30
+706,WLMU5057108,110,standard,in_yard,Durban,21844.34,normal,Terminal B,2026-06-04
+707,OPXU1072627,37,flat_rack,in_yard,Santos,25932.41,high,Terminal C,2026-02-28
+708,JHDU4105895,47,standard,damaged,Jebel Ali,23703.3,urgent,Terminal C,2026-08-10
+709,WLMU4817726,28,standard,dispatched,Long Beach,5214.0,low,Terminal C,2026-01-28
+710,BFPU7060776,64,reefer,loaded,Singapore,4138.45,normal,Terminal C,2026-07-27
+711,VNKU6234607,37,reefer,dispatched,Busan,16401.81,normal,Terminal C,2026-02-28
+712,BFPU2167847,25,open_top,dispatched,Colombo,6661.73,urgent,Terminal C,2026-06-25
+713,ZTCU7649981,87,standard,dispatched,Shanghai,5099.66,normal,Terminal A,2026-03-26
+714,OPXU2085660,95,standard,in_yard,Santos,17468.98,urgent,Terminal C,2026-07-16
+715,BFPU8125354,30,reefer,in_yard,Durban,17434.9,high,Terminal A,2026-06-04
+716,VNKU7785437,46,flat_rack,loaded,Hamburg,21967.99,low,Terminal A,2026-02-17
+717,VNKU4872547,63,reefer,in_yard,Los Angeles,21182.76,high,Terminal C,2026-02-11
+718,ZTCU4004727,87,standard,dispatched,Hamburg,9871.57,normal,Terminal A,2026-03-26
+719,BFPU9723295,85,dangerous_goods,dispatched,Santos,9632.64,normal,Terminal A,2026-04-10
+720,QRSU1296459,70,flat_rack,in_yard,Tanjung Pelepas,24883.27,low,Terminal B,2026-06-14
+721,BFPU7313879,41,standard,in_yard,Jebel Ali,16473.33,high,Terminal A,2026-08-15
+722,JHDU3753883,114,standard,in_yard,Piraeus,14673.83,low,Terminal B,2026-04-28
+723,WLMU8882244,85,standard,delayed,Algeciras,3449.17,normal,Terminal A,2026-04-10
+724,JHDU6918393,79,dangerous_goods,in_yard,Singapore,2731.82,low,Terminal A,2026-08-25
+725,BFPU1451304,45,dangerous_goods,dispatched,Piraeus,4531.1,normal,Terminal A,2026-08-10
+726,QRSU1947061,53,reefer,in_yard,Ningbo,17405.82,high,Terminal C,2026-01-16
+727,QRSU2920509,112,standard,in_yard,Long Beach,2971.82,normal,Terminal C,2026-01-08
+728,WLMU8066104,73,standard,dispatched,Durban,2578.15,normal,Terminal A,2026-01-12
+729,WLMU2639564,42,dangerous_goods,in_yard,Santos,10735.15,normal,Terminal A,2026-07-27
+730,WLMU6025126,22,standard,loaded,Valencia,18521.55,urgent,Terminal A,2026-01-24
+731,BFPU9989803,108,standard,in_yard,Ningbo,27901.92,normal,Terminal B,2026-01-02
+732,JHDU2542796,80,reefer,loaded,Durban,10757.79,low,Terminal B,2026-06-19
+733,OPXU6827003,55,dangerous_goods,dispatched,Ningbo,15120.63,normal,Terminal C,2026-02-18
+734,VNKU7749490,26,standard,loaded,Nhava Sheva,6695.62,low,Terminal A,2026-03-29
+735,VNKU4572755,74,reefer,dispatched,Felixstowe,8966.33,normal,Terminal B,2026-07-20
+736,WLMU2004647,120,standard,loaded,Hamburg,8249.72,normal,Terminal A,2026-07-30
+737,VNKU7883025,109,standard,dispatched,Shanghai,18482.11,high,Terminal C,2026-08-03
+738,QRSU3694157,106,standard,dispatched,Piraeus,8200.57,low,Terminal B,2026-04-30
+739,BFPU6210006,32,standard,loaded,Tanjung Pelepas,12972.5,high,Terminal A,2026-01-21
+740,QRSU3288926,21,standard,dispatched,Antwerp,19125.44,low,Terminal A,2026-05-30
+741,VNKU1334013,93,standard,delayed,Long Beach,17641.59,high,Terminal A,2026-01-25
+742,QRSU2515088,115,standard,dispatched,Hamburg,8137.07,normal,Terminal A,2026-08-01
+743,JHDU9812402,67,standard,delayed,Busan,17595.35,high,Terminal A,2026-06-05
+744,BFPU7542286,43,dangerous_goods,dispatched,Tanjung Pelepas,7668.22,low,Terminal C,2026-04-01
+745,VNKU7851404,36,standard,loaded,Valencia,15870.22,normal,Terminal B,2026-04-06
+746,WLMU8109870,41,standard,in_yard,Antwerp,24865.27,urgent,Terminal A,2026-08-15
+747,JHDU7169641,61,dangerous_goods,in_yard,Vancouver,2905.05,normal,Terminal A,2026-06-09
+748,BFPU5021093,89,standard,loaded,Colombo,25482.08,normal,Terminal A,2026-05-26
+749,VNKU7517462,110,standard,damaged,Antwerp,9823.09,urgent,Terminal B,2026-06-04
+750,OPXU3688166,39,open_top,dispatched,Tanjung Pelepas,22522.25,normal,Terminal B,2026-02-28
+751,BFPU9249220,106,standard,loaded,Long Beach,20652.04,high,Terminal B,2026-04-30
+752,OPXU5378351,106,standard,loaded,Vancouver,20960.02,normal,Terminal B,2026-05-01
+753,JHDU1458871,59,dangerous_goods,dispatched,Jebel Ali,18384.06,high,Terminal C,2026-03-03
+754,VNKU4356706,1,reefer,in_yard,Shanghai,4881.53,normal,Terminal A,2026-01-07
+755,WLMU7883963,109,dangerous_goods,in_yard,Valencia,24711.15,low,Terminal C,2026-08-02
+756,WLMU6495887,88,dangerous_goods,in_yard,Tanjung Pelepas,11557.59,normal,Terminal C,2026-03-22
+757,WLMU4766269,107,standard,in_yard,Nhava Sheva,18824.77,normal,Terminal C,2026-06-28
+758,OPXU5391992,60,reefer,in_yard,Piraeus,18068.11,normal,Terminal A,2026-04-28
+759,QRSU3854188,12,flat_rack,in_yard,Algeciras,13314.13,high,Terminal B,2026-06-13
+760,JHDU9290445,106,standard,dispatched,Santos,26597.36,high,Terminal B,2026-05-01
+761,JHDU9290765,37,standard,loaded,Santos,17602.15,urgent,Terminal C,2026-02-28
+762,JHDU4176986,94,standard,loaded,Hamburg,2748.1,urgent,Terminal B,2026-02-07
+763,VNKU5166084,80,standard,dispatched,Felixstowe,4229.21,normal,Terminal B,2026-06-19
+764,VNKU4560421,89,reefer,dispatched,Vancouver,8661.87,low,Terminal A,2026-05-26
+765,QRSU4939985,7,standard,loaded,Vancouver,26422.37,urgent,Terminal B,2026-04-08
+766,QRSU9464810,1,reefer,in_yard,Piraeus,19452.81,low,Terminal A,2026-01-07
+767,OPXU5366969,75,standard,loaded,Long Beach,24825.32,low,Terminal A,2026-02-10
+768,WLMU8263354,91,standard,in_yard,Singapore,27441.43,normal,Terminal C,2026-02-25
+769,QRSU8215646,96,standard,delayed,Vancouver,23569.32,high,Terminal A,2026-04-10
+770,OPXU6293931,56,reefer,loaded,Hamburg,16447.54,high,Terminal C,2026-04-15
+771,OPXU3493443,7,standard,in_yard,Valencia,8765.82,normal,Terminal B,2026-04-09
+772,VNKU1684371,15,standard,damaged,Nhava Sheva,14615.19,normal,Terminal B,2026-06-26
+773,QRSU2569976,16,standard,in_yard,Jebel Ali,21498.35,high,Terminal A,2026-07-18
+774,ZTCU9825074,75,dangerous_goods,in_yard,Shanghai,8400.09,normal,Terminal A,2026-02-09
+775,QRSU1435572,114,standard,damaged,Los Angeles,12248.41,normal,Terminal B,2026-04-27
+776,QRSU3579924,108,standard,loaded,Valencia,13805.44,urgent,Terminal B,2026-01-02
+777,ZTCU8601790,43,standard,dispatched,Durban,5362.33,high,Terminal C,2026-04-02
+778,BFPU1931723,42,reefer,loaded,Vancouver,11916.16,normal,Terminal A,2026-07-26
+779,BFPU7692721,31,standard,delayed,Jebel Ali,12101.08,normal,Terminal A,2026-08-13
+780,QRSU9235014,16,dangerous_goods,dispatched,Ningbo,25497.09,normal,Terminal A,2026-07-19
+781,ZTCU7164902,86,standard,loaded,Piraeus,14387.43,normal,Terminal A,2026-05-19
+782,BFPU8088983,12,dangerous_goods,dispatched,Tanjung Pelepas,18397.84,low,Terminal B,2026-06-13
+783,JHDU4761958,60,reefer,dispatched,Valencia,15709.25,normal,Terminal A,2026-04-28
+784,VNKU8337608,38,standard,dispatched,Ningbo,5863.77,low,Terminal C,2026-06-01
+785,OPXU9776028,108,standard,loaded,Nhava Sheva,3989.85,low,Terminal B,2026-01-02
+786,VNKU7929315,66,standard,dispatched,Durban,23133.44,normal,Terminal A,2026-08-16
+787,WLMU1272943,99,standard,dispatched,Jebel Ali,22440.6,high,Terminal C,2026-07-25
+788,VNKU5993696,11,standard,dispatched,Felixstowe,18219.07,normal,Terminal B,2026-01-21
+789,OPXU2312322,28,reefer,dispatched,Los Angeles,13278.77,low,Terminal C,2026-01-29
+790,ZTCU3881241,15,reefer,loaded,Piraeus,24588.29,urgent,Terminal B,2026-06-27
+791,WLMU7052024,39,reefer,damaged,Piraeus,22920.66,low,Terminal B,2026-02-28
+792,OPXU2877580,2,dangerous_goods,dispatched,Santos,24334.31,normal,Terminal B,2026-06-23
+793,OPXU8311317,84,dangerous_goods,delayed,Nhava Sheva,6963.78,normal,Terminal B,2026-06-03
+794,VNKU8077958,19,standard,in_yard,Hamburg,21208.31,normal,Terminal A,2026-06-15
+795,ZTCU8541631,61,reefer,in_yard,Durban,23565.72,normal,Terminal A,2026-06-10
+796,ZTCU8244199,2,flat_rack,dispatched,Durban,17491.83,normal,Terminal B,2026-06-24
+797,VNKU7705523,5,standard,loaded,Vancouver,26317.3,high,Terminal A,2026-07-28
+798,JHDU2018455,30,standard,loaded,Long Beach,16384.65,normal,Terminal A,2026-06-04
+799,VNKU2961940,114,standard,delayed,Colombo,13656.46,normal,Terminal B,2026-04-27
+800,JHDU4224602,37,standard,loaded,Algeciras,7712.26,high,Terminal C,2026-02-28
+801,WLMU8859576,118,standard,in_yard,Piraeus,26954.89,high,Terminal A,2026-03-04
+802,VNKU3718341,102,reefer,in_yard,Shanghai,19343.47,low,Terminal A,2026-03-12
+803,WLMU9257506,21,standard,loaded,Valencia,9894.95,normal,Terminal A,2026-05-30
+804,QRSU5375632,3,standard,in_yard,Algeciras,2831.22,low,Terminal C,2026-01-25
+805,WLMU4803231,15,standard,in_yard,Antwerp,27835.23,high,Terminal B,2026-06-26
+806,WLMU5487758,99,open_top,delayed,Algeciras,17711.53,low,Terminal C,2026-07-25
+807,VNKU8669463,119,flat_rack,dispatched,Los Angeles,22322.96,normal,Terminal C,2026-03-07
+808,WLMU1704130,106,standard,in_yard,Los Angeles,24642.61,high,Terminal B,2026-04-30
+809,QRSU8407441,94,dangerous_goods,loaded,Los Angeles,6011.69,normal,Terminal B,2026-02-07
+810,BFPU4387157,16,standard,loaded,Rotterdam,8378.22,high,Terminal A,2026-07-19
+811,WLMU3873296,37,standard,loaded,Tanjung Pelepas,11376.73,normal,Terminal C,2026-02-27
+812,BFPU9886057,97,standard,in_yard,Tanjung Pelepas,12748.64,normal,Terminal A,2026-01-03
+813,WLMU7069566,110,flat_rack,loaded,Rotterdam,20658.27,normal,Terminal B,2026-06-04
+814,QRSU6281544,11,standard,dispatched,Tanjung Pelepas,3598.18,high,Terminal B,2026-01-21
+815,WLMU1969887,116,flat_rack,damaged,Algeciras,27289.19,normal,Terminal C,2026-02-28
+816,JHDU6262932,93,open_top,in_yard,Antwerp,25405.42,normal,Terminal A,2026-01-24
+817,VNKU8485810,90,reefer,delayed,Vancouver,22496.88,normal,Terminal B,2026-07-22
+818,BFPU7786479,114,dangerous_goods,delayed,Shanghai,2961.22,normal,Terminal B,2026-04-27
+819,WLMU5763519,67,standard,loaded,Ningbo,15554.73,high,Terminal A,2026-06-04
+820,ZTCU5340101,3,standard,dispatched,Tanjung Pelepas,27660.82,low,Terminal C,2026-01-24
+821,QRSU5357990,108,reefer,loaded,Singapore,21670.56,urgent,Terminal B,2026-01-03
+822,WLMU1087466,39,standard,damaged,Durban,16705.53,high,Terminal B,2026-02-28
+823,QRSU5773713,45,reefer,dispatched,Durban,19483.28,normal,Terminal A,2026-08-09
+824,QRSU9664623,14,reefer,dispatched,Colombo,13812.05,low,Terminal B,2026-03-05
+825,VNKU2374845,107,standard,loaded,Hamburg,14382.58,normal,Terminal C,2026-06-29
+826,WLMU7757085,87,reefer,loaded,Piraeus,24672.38,normal,Terminal A,2026-03-27
+827,JHDU9213136,57,reefer,loaded,Jebel Ali,5753.0,low,Terminal B,2026-06-03
+828,JHDU9609823,17,open_top,in_yard,Santos,13841.24,low,Terminal C,2026-04-13
+829,QRSU2992563,72,reefer,loaded,Los Angeles,11609.24,normal,Terminal C,2026-05-20
+830,QRSU6115785,16,flat_rack,in_yard,Valencia,2727.42,low,Terminal A,2026-07-19
+831,QRSU5756043,7,standard,dispatched,Valencia,2054.23,normal,Terminal B,2026-04-08
+832,ZTCU8005748,112,standard,in_yard,Felixstowe,25407.47,high,Terminal C,2026-01-08
+833,JHDU3228175,107,dangerous_goods,loaded,Felixstowe,21803.65,normal,Terminal C,2026-06-28
+834,JHDU6456223,111,standard,dispatched,Vancouver,12650.34,normal,Terminal B,2026-03-29
+835,WLMU1768727,44,flat_rack,delayed,Antwerp,18793.83,high,Terminal C,2026-06-17
+836,JHDU6181610,74,reefer,in_yard,Nhava Sheva,4213.95,urgent,Terminal B,2026-07-19
+837,WLMU4177535,73,dangerous_goods,loaded,Rotterdam,5127.36,urgent,Terminal A,2026-01-11
+838,QRSU4452834,3,standard,dispatched,Durban,13549.97,high,Terminal C,2026-01-25
+839,WLMU1754700,52,standard,delayed,Long Beach,13362.45,normal,Terminal C,2026-03-18
+840,QRSU2527147,49,standard,in_yard,Jebel Ali,9419.14,low,Terminal A,2026-02-24
+841,QRSU7832964,20,reefer,in_yard,Long Beach,6717.9,normal,Terminal C,2026-05-25
+842,ZTCU6369404,50,standard,delayed,Antwerp,11763.34,high,Terminal B,2026-04-10
+843,OPXU5020206,7,dangerous_goods,loaded,Valencia,15224.15,normal,Terminal B,2026-04-08
+844,ZTCU6340799,35,standard,loaded,Valencia,2751.57,normal,Terminal B,2026-05-19
+845,WLMU2703045,35,standard,loaded,Hamburg,9919.93,normal,Terminal B,2026-05-19
+846,JHDU9395862,109,standard,damaged,Colombo,16051.43,low,Terminal C,2026-08-02
+847,VNKU8578973,69,standard,dispatched,Vancouver,9520.49,urgent,Terminal B,2026-04-19
+848,VNKU5585262,8,reefer,dispatched,Piraeus,27980.29,high,Terminal B,2026-07-06
+849,BFPU9561890,75,standard,in_yard,Nhava Sheva,16640.12,normal,Terminal A,2026-02-10
+850,ZTCU3342942,90,reefer,damaged,Tanjung Pelepas,7482.1,normal,Terminal B,2026-07-22
+851,JHDU6748465,114,reefer,damaged,Felixstowe,9098.34,normal,Terminal B,2026-04-28
+852,OPXU8714152,44,flat_rack,in_yard,Hamburg,18807.53,low,Terminal C,2026-06-18
+853,ZTCU3911451,1,standard,delayed,Valencia,21824.1,normal,Terminal A,2026-01-07
+854,ZTCU8468826,69,reefer,loaded,Piraeus,23514.14,normal,Terminal B,2026-04-19
+855,BFPU1141455,108,standard,loaded,Santos,13559.02,normal,Terminal B,2026-01-02
+856,QRSU7003240,98,standard,dispatched,Ningbo,23018.78,normal,Terminal C,2026-06-29
+857,ZTCU5710310,47,standard,dispatched,Vancouver,7436.24,low,Terminal C,2026-08-10
+858,BFPU5653119,15,reefer,loaded,Nhava Sheva,7038.03,normal,Terminal B,2026-06-26
+859,WLMU3151617,9,reefer,in_yard,Durban,24242.45,high,Terminal B,2026-03-18
+860,BFPU1387847,25,flat_rack,dispatched,Nhava Sheva,17975.87,normal,Terminal C,2026-06-25
+861,VNKU1870113,1,open_top,in_yard,Tanjung Pelepas,9124.93,normal,Terminal A,2026-01-08
+862,QRSU9678130,64,dangerous_goods,delayed,Busan,3221.08,high,Terminal C,2026-07-27
+863,ZTCU7574301,41,standard,in_yard,Durban,22999.5,urgent,Terminal A,2026-08-14
+864,VNKU2248902,89,open_top,in_yard,Long Beach,10080.95,normal,Terminal A,2026-05-26
+865,VNKU8246900,4,dangerous_goods,loaded,Long Beach,23853.2,normal,Terminal B,2026-02-21
+866,QRSU1913231,31,dangerous_goods,loaded,Busan,26532.24,high,Terminal A,2026-08-14
+867,ZTCU8490291,98,reefer,in_yard,Singapore,25834.57,normal,Terminal C,2026-06-28
+868,OPXU2040224,101,open_top,loaded,Ningbo,17879.2,normal,Terminal A,2026-02-10
+869,ZTCU1875823,87,standard,loaded,Los Angeles,18049.85,normal,Terminal A,2026-03-26
+870,VNKU8788136,59,dangerous_goods,delayed,Vancouver,4633.23,normal,Terminal C,2026-03-03
+871,WLMU6506176,59,reefer,in_yard,Rotterdam,17474.55,low,Terminal C,2026-03-03
+872,WLMU3113620,116,reefer,in_yard,Tanjung Pelepas,14516.38,normal,Terminal C,2026-02-27
+873,OPXU1739385,32,standard,in_yard,Tanjung Pelepas,15341.27,normal,Terminal A,2026-01-22
+874,WLMU3443176,40,standard,in_yard,Long Beach,9567.66,urgent,Terminal A,2026-06-21
+875,OPXU9507858,8,dangerous_goods,loaded,Singapore,12973.59,low,Terminal B,2026-07-06
+876,OPXU2147624,82,standard,dispatched,Felixstowe,17593.82,normal,Terminal A,2026-08-05
+877,QRSU8024541,79,standard,in_yard,Singapore,14894.2,high,Terminal A,2026-08-24
+878,OPXU8827187,89,reefer,in_yard,Long Beach,22989.05,normal,Terminal A,2026-05-27
+879,BFPU1112833,24,standard,in_yard,Rotterdam,16421.98,low,Terminal C,2026-05-01
+880,JHDU7038275,25,standard,in_yard,Santos,9386.62,normal,Terminal C,2026-06-25
+881,OPXU6701191,93,dangerous_goods,in_yard,Santos,2558.79,high,Terminal A,2026-01-24
+882,BFPU3302564,3,standard,dispatched,Los Angeles,10797.97,normal,Terminal C,2026-01-25
+883,QRSU7247000,31,reefer,delayed,Vancouver,24923.26,high,Terminal A,2026-08-13
+884,OPXU3194370,16,dangerous_goods,in_yard,Piraeus,20053.2,normal,Terminal A,2026-07-19
+885,OPXU1775026,82,dangerous_goods,loaded,Nhava Sheva,9648.75,low,Terminal A,2026-08-04
+886,JHDU5698850,7,open_top,delayed,Durban,25031.69,normal,Terminal B,2026-04-08
+887,VNKU2088389,101,standard,loaded,Algeciras,11730.92,normal,Terminal A,2026-02-10
+888,JHDU7272644,42,standard,loaded,Valencia,14317.71,normal,Terminal A,2026-07-26
+889,OPXU4405783,27,standard,in_yard,Santos,9955.97,high,Terminal A,2026-07-04
+890,BFPU7276479,120,standard,in_yard,Shanghai,9671.25,normal,Terminal A,2026-07-29
+891,ZTCU8805651,75,standard,in_yard,Felixstowe,14156.33,normal,Terminal A,2026-02-10
+892,QRSU7415119,41,standard,loaded,Antwerp,18779.23,normal,Terminal A,2026-08-14
+893,BFPU9418218,38,standard,dispatched,Antwerp,26091.75,low,Terminal C,2026-05-31
+894,ZTCU4360587,47,standard,dispatched,Antwerp,9870.61,high,Terminal C,2026-08-10
+895,JHDU3312992,25,flat_rack,dispatched,Nhava Sheva,25721.95,low,Terminal C,2026-06-25
+896,BFPU6815525,37,dangerous_goods,loaded,Piraeus,23368.39,high,Terminal C,2026-02-27
+897,JHDU9600788,61,flat_rack,damaged,Piraeus,7917.04,normal,Terminal A,2026-06-09
+898,OPXU9654113,61,reefer,loaded,Felixstowe,20785.27,normal,Terminal A,2026-06-09
+899,BFPU4151542,41,standard,delayed,Tanjung Pelepas,7449.2,normal,Terminal A,2026-08-14
+900,OPXU3153282,48,standard,dispatched,Valencia,23070.44,high,Terminal A,2026-01-05
+901,VNKU8142385,29,reefer,loaded,Nhava Sheva,9790.57,normal,Terminal C,2026-07-15
+902,OPXU3578511,119,flat_rack,damaged,Durban,18375.82,normal,Terminal C,2026-03-08
+903,OPXU7553787,49,standard,loaded,Valencia,4824.6,normal,Terminal A,2026-02-25
+904,QRSU2564332,82,standard,dispatched,Jebel Ali,2833.54,normal,Terminal A,2026-08-05
+905,OPXU4338644,4,standard,damaged,Ningbo,7353.2,normal,Terminal B,2026-02-20
+906,ZTCU7184958,59,standard,in_yard,Tanjung Pelepas,12168.74,urgent,Terminal C,2026-03-03
+907,VNKU9023722,69,reefer,loaded,Santos,5378.24,normal,Terminal B,2026-04-20
+908,JHDU8965487,105,standard,loaded,Ningbo,17274.79,normal,Terminal B,2026-07-01
+909,OPXU1124877,36,flat_rack,loaded,Piraeus,17726.06,normal,Terminal B,2026-04-07
+910,WLMU9236918,117,standard,loaded,Shanghai,9485.71,high,Terminal A,2026-01-09
+911,JHDU5990361,45,standard,dispatched,Jebel Ali,12791.37,low,Terminal A,2026-08-10
+912,VNKU4077684,59,reefer,in_yard,Singapore,8232.08,high,Terminal C,2026-03-04
+913,JHDU5897094,113,reefer,in_yard,Santos,25627.15,normal,Terminal B,2026-04-29
+914,ZTCU2765375,48,standard,dispatched,Tanjung Pelepas,13724.34,normal,Terminal A,2026-01-04
+915,ZTCU2228016,60,reefer,dispatched,Felixstowe,11910.04,normal,Terminal A,2026-04-28
+916,ZTCU1180143,51,standard,dispatched,Hamburg,10504.87,normal,Terminal B,2026-06-29
+917,ZTCU2384936,60,standard,in_yard,Felixstowe,5646.65,high,Terminal A,2026-04-28
+918,BFPU1303099,22,reefer,in_yard,Los Angeles,15901.0,normal,Terminal A,2026-01-24
+919,BFPU1188082,86,reefer,in_yard,Colombo,6626.45,normal,Terminal A,2026-05-18
+920,JHDU1801213,57,dangerous_goods,dispatched,Los Angeles,12156.08,normal,Terminal B,2026-06-02
+921,ZTCU1816458,77,dangerous_goods,dispatched,Busan,11740.76,normal,Terminal C,2026-04-16
+922,VNKU1468825,3,flat_rack,in_yard,Santos,19678.95,low,Terminal C,2026-01-24
+923,BFPU3816607,103,reefer,in_yard,Algeciras,4799.78,normal,Terminal B,2026-03-15
+924,OPXU7628072,80,flat_rack,in_yard,Santos,4753.02,normal,Terminal B,2026-06-18
+925,JHDU6305630,52,standard,in_yard,Busan,3716.42,high,Terminal C,2026-03-18
+926,ZTCU4666842,6,standard,dispatched,Valencia,27560.66,low,Terminal B,2026-03-29
+927,ZTCU6441761,33,flat_rack,dispatched,Hamburg,10633.21,normal,Terminal B,2026-07-17
+928,JHDU9088805,109,standard,in_yard,Durban,13671.7,normal,Terminal C,2026-08-02
+929,WLMU1222997,65,standard,dispatched,Los Angeles,10030.06,normal,Terminal A,2026-06-19
+930,ZTCU2005341,80,standard,loaded,Santos,5943.44,normal,Terminal B,2026-06-18
+931,JHDU8444490,31,reefer,in_yard,Antwerp,10256.01,high,Terminal A,2026-08-13
+932,BFPU7960756,67,reefer,in_yard,Rotterdam,7954.26,normal,Terminal A,2026-06-05
+933,OPXU1907210,32,open_top,dispatched,Busan,22837.75,normal,Terminal A,2026-01-21
+934,BFPU7400271,78,standard,in_yard,Rotterdam,3680.04,normal,Terminal A,2026-08-12
+935,JHDU3374513,7,flat_rack,in_yard,Jebel Ali,17408.4,high,Terminal B,2026-04-08
+936,WLMU2311382,31,standard,loaded,Jebel Ali,20763.52,normal,Terminal A,2026-08-13
+937,OPXU6085186,78,standard,loaded,Santos,9068.38,high,Terminal A,2026-08-12
+938,VNKU7337047,47,standard,loaded,Algeciras,17844.25,normal,Terminal C,2026-08-09
+939,BFPU9086630,105,standard,loaded,Shanghai,21730.32,high,Terminal B,2026-06-30
+940,JHDU3947745,71,standard,loaded,Felixstowe,9363.87,normal,Terminal C,2026-01-04
+941,QRSU3292713,10,reefer,in_yard,Santos,2108.69,high,Terminal A,2026-07-01
+942,VNKU7976304,63,flat_rack,damaged,Colombo,11984.97,normal,Terminal C,2026-02-10
+943,ZTCU3088386,53,standard,loaded,Santos,21836.72,urgent,Terminal C,2026-01-17
+944,JHDU9197714,66,reefer,loaded,Singapore,18923.56,high,Terminal A,2026-08-16
+945,VNKU1578940,32,open_top,loaded,Rotterdam,20134.26,normal,Terminal A,2026-01-22
+946,VNKU3472414,78,standard,dispatched,Jebel Ali,2320.77,high,Terminal A,2026-08-13
+947,JHDU2348021,51,standard,in_yard,Tanjung Pelepas,6311.41,normal,Terminal B,2026-06-29
+948,WLMU7422127,65,reefer,dispatched,Shanghai,4841.13,normal,Terminal A,2026-06-20
+949,OPXU5513429,105,reefer,delayed,Piraeus,20174.23,low,Terminal B,2026-06-30
+950,VNKU1026484,105,standard,dispatched,Tanjung Pelepas,15649.01,normal,Terminal B,2026-07-01
+951,OPXU7285607,22,standard,in_yard,Valencia,6731.59,urgent,Terminal A,2026-01-25
+952,BFPU4566389,73,standard,in_yard,Jebel Ali,23038.64,low,Terminal A,2026-01-12
+953,JHDU2831995,57,open_top,in_yard,Ningbo,4228.38,low,Terminal B,2026-06-02
+954,ZTCU4938956,44,standard,dispatched,Los Angeles,2247.17,normal,Terminal C,2026-06-17
+955,WLMU1702283,86,standard,loaded,Rotterdam,11767.31,normal,Terminal A,2026-05-19
+956,VNKU8939511,120,dangerous_goods,dispatched,Long Beach,11640.41,high,Terminal A,2026-07-30
+957,OPXU7060108,105,reefer,loaded,Singapore,27357.93,high,Terminal B,2026-06-30
+958,VNKU7741225,1,reefer,delayed,Hamburg,2667.69,low,Terminal A,2026-01-08
+959,BFPU5169769,90,standard,dispatched,Valencia,15387.76,normal,Terminal B,2026-07-21
+960,BFPU6405343,82,standard,loaded,Singapore,27209.54,normal,Terminal A,2026-08-05
+961,WLMU9129167,30,standard,dispatched,Shanghai,11056.68,urgent,Terminal A,2026-06-04
+962,BFPU2685367,85,reefer,in_yard,Santos,20510.49,high,Terminal A,2026-04-09
+963,VNKU2461125,17,standard,dispatched,Nhava Sheva,27667.71,normal,Terminal C,2026-04-14
+964,VNKU5041658,15,standard,in_yard,Shanghai,4742.21,urgent,Terminal B,2026-06-26
+965,QRSU7433891,21,dangerous_goods,in_yard,Antwerp,19314.25,urgent,Terminal A,2026-05-30
+966,OPXU9968148,86,reefer,loaded,Long Beach,24670.46,urgent,Terminal A,2026-05-18
+967,QRSU7325183,83,open_top,dispatched,Piraeus,19001.91,high,Terminal B,2026-03-09
+968,OPXU4750560,104,standard,in_yard,Los Angeles,4317.63,normal,Terminal B,2026-01-21
+969,ZTCU7169603,96,standard,in_yard,Piraeus,16999.84,low,Terminal A,2026-04-09
+970,WLMU4185283,76,dangerous_goods,damaged,Long Beach,22053.3,high,Terminal B,2026-01-07
+971,JHDU4726916,67,standard,in_yard,Felixstowe,10214.08,high,Terminal A,2026-06-05
+972,OPXU9385800,108,reefer,in_yard,Ningbo,5792.64,normal,Terminal B,2026-01-02
+973,QRSU6182338,77,standard,dispatched,Antwerp,27918.06,normal,Terminal C,2026-04-17
+974,BFPU4618930,81,standard,dispatched,Piraeus,3529.13,high,Terminal C,2026-07-17
+975,JHDU4533501,106,dangerous_goods,delayed,Busan,20210.59,low,Terminal B,2026-04-30
+976,VNKU7573445,110,standard,dispatched,Jebel Ali,27767.64,normal,Terminal B,2026-06-05
+977,JHDU8942696,55,flat_rack,dispatched,Piraeus,3867.4,normal,Terminal C,2026-02-18
+978,OPXU7606405,90,standard,in_yard,Durban,24512.24,low,Terminal B,2026-07-22
+979,JHDU3746337,59,reefer,loaded,Valencia,9568.12,low,Terminal C,2026-03-03
+980,JHDU4282547,103,reefer,in_yard,Durban,4650.64,high,Terminal B,2026-03-15
+981,VNKU3822312,49,open_top,in_yard,Valencia,6670.45,low,Terminal A,2026-02-25
+982,VNKU3492562,76,reefer,loaded,Singapore,5088.87,normal,Terminal B,2026-01-08
+983,WLMU3893851,89,reefer,loaded,Shanghai,22221.0,high,Terminal A,2026-05-27
+984,JHDU8467845,36,standard,in_yard,Shanghai,5173.34,normal,Terminal B,2026-04-06
+985,WLMU9044647,3,standard,dispatched,Durban,6708.51,normal,Terminal C,2026-01-25
+986,WLMU3101118,39,standard,in_yard,Nhava Sheva,6807.14,high,Terminal B,2026-02-28
+987,WLMU9999580,51,dangerous_goods,loaded,Shanghai,15491.43,normal,Terminal B,2026-06-28
+988,BFPU4480664,97,flat_rack,delayed,Jebel Ali,24412.09,normal,Terminal A,2026-01-02
+989,VNKU6273013,72,standard,in_yard,Santos,18968.65,low,Terminal C,2026-05-21
+990,BFPU1587291,109,standard,in_yard,Ningbo,11452.55,normal,Terminal C,2026-08-03
+991,ZTCU5166404,85,standard,delayed,Algeciras,25520.11,normal,Terminal A,2026-04-10
+992,WLMU9228265,18,reefer,loaded,Colombo,17760.48,normal,Terminal B,2026-03-22
+993,BFPU1750538,85,standard,in_yard,Ningbo,24258.21,normal,Terminal A,2026-04-09
+994,WLMU4624549,78,reefer,in_yard,Vancouver,12972.39,normal,Terminal A,2026-08-13
+995,JHDU3740044,49,standard,in_yard,Antwerp,19589.67,urgent,Terminal A,2026-02-24
+996,OPXU2183767,69,reefer,in_yard,Santos,20575.57,normal,Terminal B,2026-04-19
+997,BFPU3575158,54,standard,dispatched,Piraeus,2673.66,normal,Terminal C,2026-08-24
+998,ZTCU9916589,35,standard,loaded,Shanghai,10563.3,low,Terminal B,2026-05-20
+999,QRSU3455003,100,open_top,in_yard,Rotterdam,4546.62,urgent,Terminal C,2026-07-28
+1000,ZTCU3072044,49,standard,dispatched,Ningbo,17309.5,high,Terminal A,2026-02-24
+1001,QRSU5731119,68,reefer,dispatched,Singapore,6439.43,urgent,Terminal A,2026-05-11
+1002,QRSU9920146,24,reefer,delayed,Piraeus,14398.41,low,Terminal C,2026-04-30
+1003,WLMU3608710,88,reefer,in_yard,Durban,21120.98,low,Terminal C,2026-03-22
+1004,BFPU5179399,91,reefer,loaded,Felixstowe,6760.72,urgent,Terminal C,2026-02-25
+1005,QRSU5627541,65,flat_rack,loaded,Busan,9934.87,high,Terminal A,2026-06-20
+1006,BFPU6246854,53,dangerous_goods,dispatched,Shanghai,20978.78,urgent,Terminal C,2026-01-16
+1007,ZTCU2419102,74,reefer,loaded,Valencia,23017.02,low,Terminal B,2026-07-20
+1008,WLMU3288888,87,standard,loaded,Nhava Sheva,20144.93,normal,Terminal A,2026-03-26
+1009,BFPU1122310,117,reefer,dispatched,Colombo,8349.88,normal,Terminal A,2026-01-08
+1010,VNKU3827503,78,reefer,delayed,Algeciras,25498.76,low,Terminal A,2026-08-13
+1011,OPXU9618195,108,standard,in_yard,Valencia,11856.46,normal,Terminal B,2026-01-02
+1012,JHDU5190365,44,dangerous_goods,delayed,Los Angeles,9541.68,normal,Terminal C,2026-06-18
+1013,ZTCU7603872,28,standard,in_yard,Algeciras,23468.91,low,Terminal C,2026-01-29
+1014,WLMU9191751,115,standard,in_yard,Felixstowe,10542.35,normal,Terminal A,2026-08-01
+1015,JHDU4123208,45,standard,in_yard,Tanjung Pelepas,14793.2,low,Terminal A,2026-08-09
+1016,ZTCU9177419,53,standard,dispatched,Antwerp,7878.48,normal,Terminal C,2026-01-17
+1017,VNKU4056507,47,standard,in_yard,Felixstowe,19063.27,normal,Terminal C,2026-08-09
+1018,JHDU8280643,46,standard,delayed,Santos,4877.31,normal,Terminal A,2026-02-16
+1019,VNKU6556840,51,open_top,in_yard,Santos,26657.77,urgent,Terminal B,2026-06-29
+1020,VNKU9205196,16,reefer,dispatched,Hamburg,10447.08,high,Terminal A,2026-07-19
+1021,JHDU7523795,65,standard,damaged,Rotterdam,5279.21,normal,Terminal A,2026-06-19
+1022,JHDU4967894,99,standard,dispatched,Tanjung Pelepas,27387.4,normal,Terminal C,2026-07-26
+1023,QRSU5734922,62,standard,dispatched,Busan,18057.94,normal,Terminal A,2026-02-03
+1024,QRSU2929715,32,open_top,damaged,Busan,19324.59,normal,Terminal A,2026-01-22
+1025,BFPU2729141,91,reefer,loaded,Jebel Ali,6905.39,high,Terminal C,2026-02-24
+1026,ZTCU3219555,30,standard,in_yard,Santos,26156.56,normal,Terminal A,2026-06-03
+1027,BFPU1854889,12,standard,loaded,Busan,7766.16,normal,Terminal B,2026-06-12
+1028,VNKU1866635,66,standard,in_yard,Antwerp,26517.97,normal,Terminal A,2026-08-16
+1029,ZTCU4049286,41,standard,in_yard,Long Beach,7511.42,normal,Terminal A,2026-08-14
+1030,OPXU5232271,56,flat_rack,loaded,Ningbo,4899.74,normal,Terminal C,2026-04-14
+1031,QRSU7063033,43,reefer,loaded,Vancouver,11661.4,normal,Terminal C,2026-04-01
+1032,VNKU2463496,75,open_top,in_yard,Vancouver,5129.21,normal,Terminal A,2026-02-09
+1033,JHDU8478776,25,open_top,in_yard,Nhava Sheva,18094.27,normal,Terminal C,2026-06-25
+1034,OPXU9951610,98,reefer,in_yard,Santos,12873.53,normal,Terminal C,2026-06-29
+1035,QRSU8524283,115,reefer,in_yard,Tanjung Pelepas,3760.42,normal,Terminal A,2026-08-01
+1036,WLMU5599450,22,reefer,in_yard,Singapore,26850.88,low,Terminal A,2026-01-24
+1037,BFPU7668839,95,standard,loaded,Algeciras,27260.0,low,Terminal C,2026-07-17
+1038,BFPU7547256,72,standard,in_yard,Jebel Ali,2093.61,normal,Terminal C,2026-05-20
+1039,BFPU9603283,113,standard,dispatched,Algeciras,8729.7,high,Terminal B,2026-04-30
+1040,QRSU2998223,91,standard,in_yard,Busan,9587.93,normal,Terminal C,2026-02-25
+1041,OPXU5537143,119,open_top,in_yard,Busan,27727.94,normal,Terminal C,2026-03-07
+1042,JHDU6829443,1,reefer,damaged,Long Beach,4164.4,normal,Terminal A,2026-01-08
+1043,OPXU7850856,93,open_top,in_yard,Singapore,18274.84,low,Terminal A,2026-01-25
+1044,JHDU5692416,29,standard,damaged,Nhava Sheva,19090.26,high,Terminal C,2026-07-15
+1045,JHDU7408577,93,flat_rack,in_yard,Vancouver,16322.82,high,Terminal A,2026-01-24
+1046,QRSU4421186,42,reefer,dispatched,Piraeus,6046.68,normal,Terminal A,2026-07-27
+1047,OPXU9036402,48,standard,in_yard,Jebel Ali,23205.55,low,Terminal A,2026-01-05
+1048,OPXU5731917,94,standard,in_yard,Jebel Ali,23254.98,normal,Terminal B,2026-02-07
+1049,OPXU2208776,9,standard,loaded,Piraeus,4606.08,normal,Terminal B,2026-03-17
+1050,ZTCU7339692,78,standard,in_yard,Rotterdam,21849.59,normal,Terminal A,2026-08-12
+1051,OPXU2402500,17,standard,delayed,Vancouver,2350.92,urgent,Terminal C,2026-04-13
+1052,JHDU6677240,70,open_top,in_yard,Hamburg,14491.06,normal,Terminal B,2026-06-14
+1053,OPXU6157064,105,standard,in_yard,Singapore,16131.69,normal,Terminal B,2026-06-30
+1054,BFPU1747019,3,standard,in_yard,Algeciras,25047.88,normal,Terminal C,2026-01-24
+1055,OPXU1402667,117,standard,loaded,Colombo,19039.48,normal,Terminal A,2026-01-09
+1056,JHDU2885904,88,standard,damaged,Busan,4645.14,urgent,Terminal C,2026-03-22
+1057,WLMU6598972,10,standard,delayed,Shanghai,25285.25,normal,Terminal A,2026-06-30
+1058,WLMU6617751,55,reefer,dispatched,Hamburg,25221.06,normal,Terminal C,2026-02-18
+1059,ZTCU5548190,45,open_top,dispatched,Antwerp,23078.7,normal,Terminal A,2026-08-09
+1060,ZTCU3493814,101,dangerous_goods,in_yard,Hamburg,12155.59,normal,Terminal A,2026-02-11
+1061,ZTCU2898577,105,reefer,damaged,Antwerp,5761.36,normal,Terminal B,2026-06-30
+1062,BFPU7459520,24,standard,loaded,Valencia,20028.94,normal,Terminal C,2026-05-01
+1063,BFPU5125653,18,standard,loaded,Nhava Sheva,15878.04,normal,Terminal B,2026-03-22
+1064,ZTCU8077313,50,standard,dispatched,Busan,20280.43,normal,Terminal B,2026-04-10
+1065,BFPU1287807,27,standard,loaded,Hamburg,25943.51,low,Terminal A,2026-07-05
+1066,BFPU3337892,47,standard,in_yard,Nhava Sheva,27267.31,high,Terminal C,2026-08-09
+1067,BFPU4767947,27,standard,in_yard,Hamburg,11813.98,low,Terminal A,2026-07-05
+1068,ZTCU2778549,48,reefer,in_yard,Vancouver,24632.4,low,Terminal A,2026-01-05
+1069,ZTCU5111186,19,standard,loaded,Tanjung Pelepas,5892.65,low,Terminal A,2026-06-14
+1070,WLMU6024905,96,standard,dispatched,Felixstowe,22316.32,normal,Terminal A,2026-04-10
+1071,OPXU2006646,15,open_top,in_yard,Jebel Ali,15085.68,low,Terminal B,2026-06-27
+1072,VNKU5329433,88,open_top,loaded,Busan,13015.43,low,Terminal C,2026-03-21
+1073,VNKU3099389,67,reefer,loaded,Singapore,7691.57,low,Terminal A,2026-06-04
+1074,JHDU8859053,105,standard,dispatched,Piraeus,23508.6,low,Terminal B,2026-07-01
+1075,VNKU4267037,83,standard,in_yard,Colombo,17682.94,high,Terminal B,2026-03-08
+1076,QRSU3730666,31,standard,in_yard,Vancouver,2285.4,high,Terminal A,2026-08-13
+1077,OPXU1543024,71,standard,in_yard,Durban,16684.72,normal,Terminal C,2026-01-04
+1078,ZTCU6277781,6,standard,in_yard,Colombo,21543.67,urgent,Terminal B,2026-03-29
+1079,BFPU7553873,41,reefer,damaged,Los Angeles,10614.27,high,Terminal A,2026-08-14
+1080,BFPU3519714,65,standard,dispatched,Valencia,17245.31,high,Terminal A,2026-06-20
+1081,OPXU8769633,21,standard,dispatched,Busan,24994.45,high,Terminal A,2026-05-30
+1082,JHDU3701920,99,flat_rack,loaded,Vancouver,18936.27,urgent,Terminal C,2026-07-26
+1083,BFPU3201130,58,standard,loaded,Tanjung Pelepas,3040.34,normal,Terminal B,2026-05-26
+1084,OPXU2258262,31,flat_rack,loaded,Valencia,4532.56,low,Terminal A,2026-08-14
+1085,BFPU2462431,71,standard,loaded,Jebel Ali,26285.46,low,Terminal C,2026-01-04
+1086,QRSU6928539,74,standard,in_yard,Felixstowe,8706.55,normal,Terminal B,2026-07-20
+1087,VNKU3356313,98,flat_rack,damaged,Valencia,3029.41,high,Terminal C,2026-06-29
+1088,BFPU3163996,53,standard,loaded,Vancouver,26753.17,normal,Terminal C,2026-01-17
+1089,VNKU5409512,65,open_top,damaged,Singapore,18135.96,normal,Terminal A,2026-06-19
+1090,BFPU1133260,90,standard,in_yard,Piraeus,6113.35,normal,Terminal B,2026-07-21
+1091,VNKU8755747,29,reefer,in_yard,Felixstowe,18704.6,high,Terminal C,2026-07-16
+1092,ZTCU4024485,14,reefer,delayed,Piraeus,21973.63,low,Terminal B,2026-03-05
+1093,QRSU6744913,9,flat_rack,loaded,Valencia,4972.49,normal,Terminal B,2026-03-17
+1094,OPXU4581434,61,standard,in_yard,Vancouver,22129.34,low,Terminal A,2026-06-10
+1095,VNKU8942495,102,standard,in_yard,Rotterdam,26768.77,normal,Terminal A,2026-03-13
+1096,JHDU3954562,33,standard,in_yard,Piraeus,4124.44,high,Terminal B,2026-07-17
+1097,VNKU9804312,112,standard,delayed,Jebel Ali,23594.28,low,Terminal C,2026-01-08
+1098,BFPU5981239,44,standard,in_yard,Tanjung Pelepas,14522.26,normal,Terminal C,2026-06-17
+1099,VNKU6950750,90,open_top,loaded,Rotterdam,16583.62,high,Terminal B,2026-07-21
+1100,JHDU3426274,10,standard,damaged,Long Beach,2368.86,high,Terminal A,2026-06-30
+1101,BFPU6308442,64,standard,damaged,Tanjung Pelepas,8832.87,normal,Terminal C,2026-07-27
+1102,BFPU3109184,107,reefer,dispatched,Durban,4533.6,normal,Terminal C,2026-06-28
+1103,JHDU3786712,54,reefer,in_yard,Santos,26761.8,urgent,Terminal C,2026-08-24
+1104,BFPU7103458,48,standard,delayed,Algeciras,23295.34,low,Terminal A,2026-01-05
+1105,VNKU7946668,84,standard,loaded,Nhava Sheva,13072.08,urgent,Terminal B,2026-06-03
+1106,OPXU8697782,15,standard,in_yard,Vancouver,6229.09,normal,Terminal B,2026-06-27
+1107,JHDU8339925,109,reefer,dispatched,Los Angeles,27879.44,high,Terminal C,2026-08-02
+1108,JHDU1275590,12,reefer,loaded,Valencia,21498.54,normal,Terminal B,2026-06-12
+1109,VNKU9445004,82,reefer,in_yard,Ningbo,24144.34,normal,Terminal A,2026-08-05
+1110,VNKU2921009,71,standard,loaded,Los Angeles,11115.96,high,Terminal C,2026-01-04
+1111,BFPU7640565,53,standard,loaded,Busan,15196.58,normal,Terminal C,2026-01-17
+1112,BFPU7957788,40,reefer,in_yard,Tanjung Pelepas,2849.54,low,Terminal A,2026-06-22
+1113,BFPU9706758,108,dangerous_goods,loaded,Long Beach,6430.68,normal,Terminal B,2026-01-03
+1114,WLMU7565971,31,standard,dispatched,Singapore,22834.62,normal,Terminal A,2026-08-13
+1115,VNKU3914492,82,standard,in_yard,Jebel Ali,13372.44,low,Terminal A,2026-08-04
+1116,ZTCU7576872,65,dangerous_goods,dispatched,Antwerp,23770.78,low,Terminal A,2026-06-20
+1117,ZTCU2564733,27,standard,in_yard,Durban,5979.26,normal,Terminal A,2026-07-04
+1118,VNKU1424293,74,reefer,in_yard,Felixstowe,18496.04,high,Terminal B,2026-07-19
+1119,JHDU4720435,31,standard,loaded,Busan,20884.13,high,Terminal A,2026-08-14
+1120,QRSU1868201,99,standard,delayed,Rotterdam,18598.05,normal,Terminal C,2026-07-25
+1121,VNKU3058301,15,standard,in_yard,Jebel Ali,4412.21,normal,Terminal B,2026-06-27
+1122,BFPU4489198,117,standard,loaded,Rotterdam,12757.37,normal,Terminal A,2026-01-08
+1123,JHDU8044872,27,standard,in_yard,Felixstowe,23022.28,low,Terminal A,2026-07-04
+1124,OPXU1527651,116,standard,in_yard,Colombo,14581.69,normal,Terminal C,2026-02-27
+1125,WLMU5269818,21,open_top,in_yard,Rotterdam,15934.81,normal,Terminal A,2026-05-30
+1126,BFPU7121849,28,standard,in_yard,Long Beach,5602.69,low,Terminal C,2026-01-28
+1127,QRSU9079485,35,standard,in_yard,Nhava Sheva,18950.04,normal,Terminal B,2026-05-20
+1128,WLMU7709915,56,open_top,in_yard,Santos,19863.49,high,Terminal C,2026-04-15
+1129,ZTCU6227531,51,standard,in_yard,Valencia,13270.26,normal,Terminal B,2026-06-29
+1130,QRSU2804542,105,reefer,loaded,Durban,11175.8,high,Terminal B,2026-06-30
+1131,OPXU1566398,58,flat_rack,in_yard,Tanjung Pelepas,9630.31,high,Terminal B,2026-05-26
+1132,ZTCU2923507,51,standard,in_yard,Jebel Ali,11301.36,low,Terminal B,2026-06-29
+1133,OPXU6275644,48,standard,in_yard,Rotterdam,20636.87,normal,Terminal A,2026-01-05
+1134,OPXU2111241,116,standard,dispatched,Algeciras,7654.05,normal,Terminal C,2026-02-27
+1135,JHDU8075793,74,reefer,loaded,Long Beach,7151.91,low,Terminal B,2026-07-20
+1136,ZTCU5603927,64,standard,in_yard,Jebel Ali,17637.2,normal,Terminal C,2026-07-26
+1137,ZTCU5782125,74,standard,dispatched,Durban,27686.82,high,Terminal B,2026-07-20
+1138,BFPU7758043,17,standard,loaded,Algeciras,3017.13,normal,Terminal C,2026-04-13
+1139,ZTCU7963867,61,reefer,in_yard,Colombo,12408.95,normal,Terminal A,2026-06-10
+1140,WLMU1789750,64,standard,dispatched,Felixstowe,14826.75,normal,Terminal C,2026-07-26
+1141,QRSU2723751,108,standard,in_yard,Rotterdam,5607.1,urgent,Terminal B,2026-01-03
+1142,OPXU2476675,29,standard,delayed,Colombo,23219.84,normal,Terminal C,2026-07-15
+1143,JHDU1880652,120,standard,dispatched,Los Angeles,3248.09,normal,Terminal A,2026-07-30
+1144,JHDU7367900,43,standard,in_yard,Hamburg,17169.78,low,Terminal C,2026-04-02
+1145,OPXU7933921,111,reefer,dispatched,Algeciras,15717.31,normal,Terminal B,2026-03-29
+1146,QRSU9098468,36,standard,in_yard,Ningbo,20495.92,normal,Terminal B,2026-04-06
+1147,JHDU4454281,85,reefer,in_yard,Valencia,3566.94,low,Terminal A,2026-04-09
+1148,BFPU7460238,60,standard,in_yard,Santos,23163.88,high,Terminal A,2026-04-29
+1149,QRSU8617224,98,reefer,dispatched,Los Angeles,25767.26,normal,Terminal C,2026-06-29
+1150,VNKU9614497,50,standard,loaded,Shanghai,9223.8,low,Terminal B,2026-04-11
+1151,WLMU2712355,112,standard,delayed,Los Angeles,8254.62,high,Terminal C,2026-01-07
+1152,ZTCU8989988,35,reefer,loaded,Antwerp,5076.48,normal,Terminal B,2026-05-20
+1153,OPXU3526985,56,standard,loaded,Long Beach,3382.08,normal,Terminal C,2026-04-14
+1154,JHDU7417663,7,reefer,loaded,Ningbo,6925.69,low,Terminal B,2026-04-09
+1155,WLMU9281506,68,standard,in_yard,Singapore,18804.97,urgent,Terminal A,2026-05-10
+1156,ZTCU1598744,15,reefer,in_yard,Nhava Sheva,4626.83,normal,Terminal B,2026-06-27
+1157,VNKU2699603,51,standard,dispatched,Antwerp,14874.46,low,Terminal B,2026-06-28
+1158,JHDU5831713,45,reefer,in_yard,Rotterdam,4450.31,normal,Terminal A,2026-08-10
+1159,QRSU5003370,95,standard,dispatched,Jebel Ali,6870.95,high,Terminal C,2026-07-16
+1160,JHDU8962478,2,standard,in_yard,Antwerp,24912.7,low,Terminal B,2026-06-23
+1161,QRSU8949550,77,reefer,loaded,Busan,14286.77,low,Terminal C,2026-04-16
+1162,JHDU5876441,73,dangerous_goods,loaded,Jebel Ali,21629.8,high,Terminal A,2026-01-11
+1163,BFPU6631731,39,standard,dispatched,Nhava Sheva,8690.83,normal,Terminal B,2026-03-01
+1164,ZTCU6916088,59,standard,in_yard,Algeciras,22137.68,high,Terminal C,2026-03-04
+1165,QRSU9712557,15,reefer,in_yard,Tanjung Pelepas,24262.9,normal,Terminal B,2026-06-26
+1166,VNKU1518494,46,standard,dispatched,Tanjung Pelepas,11344.92,normal,Terminal A,2026-02-16
+1167,VNKU2810792,118,flat_rack,delayed,Nhava Sheva,25379.76,normal,Terminal A,2026-03-03
+1168,JHDU6852648,34,open_top,loaded,Tanjung Pelepas,26576.93,normal,Terminal B,2026-03-09
+1169,WLMU9725456,6,reefer,dispatched,Los Angeles,13269.95,normal,Terminal B,2026-03-30
+1170,ZTCU1139836,37,standard,dispatched,Felixstowe,19704.0,normal,Terminal C,2026-02-28
+1171,WLMU3728089,80,standard,in_yard,Ningbo,2405.4,low,Terminal B,2026-06-19
+1172,WLMU3070908,106,standard,in_yard,Tanjung Pelepas,11158.64,high,Terminal B,2026-04-30
+1173,OPXU6875686,33,open_top,dispatched,Algeciras,19298.48,high,Terminal B,2026-07-16
+1174,JHDU5541070,12,standard,dispatched,Tanjung Pelepas,17215.85,low,Terminal B,2026-06-12
+1175,VNKU6949741,5,standard,dispatched,Piraeus,12986.65,urgent,Terminal A,2026-07-27
+1176,QRSU6067099,115,reefer,in_yard,Tanjung Pelepas,19652.0,normal,Terminal A,2026-08-01
+1177,BFPU4347166,88,standard,loaded,Santos,9827.62,low,Terminal C,2026-03-22
+1178,OPXU7307661,70,dangerous_goods,dispatched,Los Angeles,5603.86,normal,Terminal B,2026-06-14
+1179,JHDU6998844,65,standard,loaded,Tanjung Pelepas,26997.62,normal,Terminal A,2026-06-19
+1180,VNKU2483592,99,dangerous_goods,dispatched,Ningbo,22452.43,normal,Terminal C,2026-07-26
+1181,WLMU5921482,17,standard,dispatched,Hamburg,12476.5,low,Terminal C,2026-04-14
+1182,ZTCU2420343,108,standard,dispatched,Los Angeles,10670.57,low,Terminal B,2026-01-03
+1183,VNKU6558419,73,open_top,in_yard,Durban,19534.74,normal,Terminal A,2026-01-11
+1184,OPXU9661473,90,standard,dispatched,Valencia,5546.47,high,Terminal B,2026-07-21
+1185,JHDU6215882,39,reefer,delayed,Valencia,18215.26,normal,Terminal B,2026-02-28
+1186,OPXU3030620,1,standard,in_yard,Los Angeles,14317.3,high,Terminal A,2026-01-08
+1187,ZTCU3043656,51,standard,loaded,Jebel Ali,23327.04,high,Terminal B,2026-06-29
+1188,WLMU8367376,106,open_top,dispatched,Tanjung Pelepas,5802.41,low,Terminal B,2026-04-30
+1189,JHDU5037972,105,standard,dispatched,Nhava Sheva,7209.13,normal,Terminal B,2026-07-01
+1190,ZTCU9270565,86,standard,in_yard,Piraeus,20138.97,low,Terminal A,2026-05-19
+1191,VNKU3485821,105,standard,loaded,Durban,12125.16,normal,Terminal B,2026-06-30
+1192,JHDU8457126,83,standard,delayed,Hamburg,14165.58,normal,Terminal B,2026-03-09
+1193,OPXU7002009,2,standard,delayed,Santos,11069.69,normal,Terminal B,2026-06-24
+1194,ZTCU3927571,66,reefer,loaded,Durban,10821.57,normal,Terminal A,2026-08-16
+1195,BFPU6082320,36,open_top,in_yard,Valencia,11789.59,normal,Terminal B,2026-04-06
+1196,JHDU9505716,74,dangerous_goods,loaded,Hamburg,20141.99,normal,Terminal B,2026-07-20
+1197,WLMU7774201,75,standard,in_yard,Jebel Ali,8024.31,normal,Terminal A,2026-02-10
+1198,JHDU8992883,120,standard,in_yard,Busan,4741.23,high,Terminal A,2026-07-30
+1199,VNKU2079947,97,standard,in_yard,Singapore,24016.85,low,Terminal A,2026-01-03
+1200,JHDU1494247,78,open_top,in_yard,Felixstowe,11818.35,urgent,Terminal A,2026-08-12
+1201,QRSU9239341,26,standard,in_yard,Santos,21296.0,normal,Terminal A,2026-03-29
+1202,WLMU1406730,12,reefer,dispatched,Santos,2864.22,low,Terminal B,2026-06-12
+1203,BFPU7845563,47,reefer,delayed,Long Beach,6817.91,normal,Terminal C,2026-08-10
+1204,BFPU4480849,25,reefer,loaded,Colombo,11268.62,high,Terminal C,2026-06-24
+1205,ZTCU8363152,103,standard,loaded,Shanghai,16797.96,low,Terminal B,2026-03-16
+1206,ZTCU9367003,13,standard,dispatched,Long Beach,2586.1,high,Terminal A,2026-03-11
+1207,BFPU5217487,119,standard,loaded,Jebel Ali,27170.99,low,Terminal C,2026-03-07
+1208,WLMU9389396,110,standard,dispatched,Nhava Sheva,20135.47,low,Terminal B,2026-06-05
+1209,QRSU1502947,120,standard,loaded,Santos,10698.07,high,Terminal A,2026-07-29
+1210,WLMU6529924,27,open_top,dispatched,Singapore,8126.05,low,Terminal A,2026-07-04
+1211,ZTCU7983351,45,reefer,dispatched,Shanghai,25075.48,normal,Terminal A,2026-08-09
+1212,JHDU1700297,35,standard,loaded,Busan,18908.76,normal,Terminal B,2026-05-20
+1213,BFPU4821097,101,standard,in_yard,Santos,15888.83,high,Terminal A,2026-02-10
+1214,VNKU1874771,71,standard,loaded,Hamburg,13172.68,normal,Terminal C,2026-01-03
+1215,VNKU2979586,15,open_top,damaged,Colombo,11146.52,normal,Terminal B,2026-06-26
+1216,OPXU2543349,31,reefer,in_yard,Nhava Sheva,16769.26,urgent,Terminal A,2026-08-13
+1217,JHDU5193002,112,dangerous_goods,in_yard,Hamburg,13402.45,normal,Terminal C,2026-01-08
+1218,WLMU5097740,45,flat_rack,in_yard,Piraeus,14446.24,low,Terminal A,2026-08-09
+1219,QRSU4453773,10,standard,dispatched,Colombo,25338.64,high,Terminal A,2026-07-01
+1220,QRSU7156124,92,dangerous_goods,in_yard,Busan,15697.95,normal,Terminal C,2026-01-22
+1221,QRSU7892648,7,reefer,dispatched,Antwerp,4039.6,high,Terminal B,2026-04-08
+1222,JHDU4536127,40,standard,dispatched,Hamburg,2932.56,normal,Terminal A,2026-06-22
+1223,BFPU8612879,84,flat_rack,in_yard,Singapore,9027.76,normal,Terminal B,2026-06-03
+1224,ZTCU2001936,106,standard,dispatched,Valencia,2490.06,normal,Terminal B,2026-05-01
+1225,OPXU4451578,6,standard,dispatched,Nhava Sheva,3358.75,normal,Terminal B,2026-03-30
+1226,ZTCU6640806,120,open_top,delayed,Durban,7630.15,low,Terminal A,2026-07-30
+1227,VNKU1958290,111,dangerous_goods,loaded,Ningbo,24321.37,urgent,Terminal B,2026-03-29
+1228,WLMU9705913,55,standard,damaged,Felixstowe,21386.48,high,Terminal C,2026-02-17
+1229,ZTCU5709366,117,dangerous_goods,damaged,Shanghai,27968.96,high,Terminal A,2026-01-09
+1230,WLMU7620309,44,standard,in_yard,Antwerp,19139.98,high,Terminal C,2026-06-17
+1231,QRSU6385308,16,dangerous_goods,dispatched,Felixstowe,14030.83,normal,Terminal A,2026-07-19
+1232,QRSU9056551,5,reefer,loaded,Tanjung Pelepas,3523.21,urgent,Terminal A,2026-07-28
+1233,WLMU6268490,115,flat_rack,loaded,Antwerp,21915.4,normal,Terminal A,2026-08-02
+1234,OPXU3927545,17,standard,dispatched,Singapore,8049.48,normal,Terminal C,2026-04-13
+1235,WLMU8387157,88,reefer,in_yard,Busan,3581.13,normal,Terminal C,2026-03-22
+1236,ZTCU6927978,33,standard,in_yard,Busan,11092.97,low,Terminal B,2026-07-17
+1237,WLMU2299399,15,standard,in_yard,Colombo,23557.58,normal,Terminal B,2026-06-26
+1238,VNKU5749368,83,standard,in_yard,Colombo,10709.63,normal,Terminal B,2026-03-09
+1239,QRSU1522734,61,standard,in_yard,Hamburg,25708.69,low,Terminal A,2026-06-09
+1240,QRSU9569737,104,reefer,dispatched,Durban,20533.85,urgent,Terminal B,2026-01-22
+1241,WLMU1546929,107,reefer,in_yard,Shanghai,26834.66,urgent,Terminal C,2026-06-28
+1242,WLMU8014220,73,standard,in_yard,Algeciras,22753.34,normal,Terminal A,2026-01-12
+1243,QRSU4271952,41,dangerous_goods,in_yard,Busan,10545.8,high,Terminal A,2026-08-15
+1244,VNKU6281742,30,reefer,in_yard,Busan,13570.19,urgent,Terminal A,2026-06-04
+1245,ZTCU6905321,47,reefer,in_yard,Colombo,18986.58,normal,Terminal C,2026-08-10
+1246,VNKU4854788,101,reefer,dispatched,Hamburg,26068.64,normal,Terminal A,2026-02-11
+1247,WLMU3317607,87,reefer,dispatched,Long Beach,10159.95,low,Terminal A,2026-03-27
+1248,OPXU9291304,65,reefer,dispatched,Jebel Ali,24786.55,low,Terminal A,2026-06-19
+1249,QRSU8882947,54,reefer,in_yard,Singapore,23680.32,low,Terminal C,2026-08-24
+1250,OPXU9638539,10,open_top,delayed,Tanjung Pelepas,11213.56,normal,Terminal A,2026-06-30
+1251,QRSU2996986,92,standard,dispatched,Long Beach,17378.43,normal,Terminal C,2026-01-22
+1252,JHDU6955200,10,flat_rack,delayed,Felixstowe,21258.13,normal,Terminal A,2026-07-01
+1253,OPXU4077793,90,reefer,loaded,Algeciras,4178.53,high,Terminal B,2026-07-22
+1254,JHDU8608923,87,standard,loaded,Algeciras,20785.86,normal,Terminal A,2026-03-26
+1255,QRSU9276091,30,standard,loaded,Algeciras,17075.53,high,Terminal A,2026-06-04
+1256,QRSU7443587,37,standard,in_yard,Hamburg,3090.3,urgent,Terminal C,2026-02-27
+1257,WLMU5668364,56,reefer,dispatched,Los Angeles,11030.99,low,Terminal C,2026-04-15
+1258,VNKU8363801,36,standard,in_yard,Antwerp,27708.94,high,Terminal B,2026-04-06
+1259,QRSU3365639,86,standard,loaded,Algeciras,21626.48,low,Terminal A,2026-05-18
+1260,WLMU4273782,115,standard,dispatched,Rotterdam,11608.05,normal,Terminal A,2026-08-02
+1261,VNKU9739149,94,standard,loaded,Los Angeles,20622.52,high,Terminal B,2026-02-07
+1262,VNKU9275454,57,standard,delayed,Antwerp,21022.48,low,Terminal B,2026-06-03
+1263,ZTCU4731953,103,reefer,in_yard,Algeciras,10718.77,normal,Terminal B,2026-03-15
+1264,JHDU6281634,91,open_top,in_yard,Los Angeles,26241.57,high,Terminal C,2026-02-25
+1265,BFPU1597875,25,flat_rack,dispatched,Busan,5558.74,normal,Terminal C,2026-06-24
+1266,OPXU5450761,87,standard,loaded,Jebel Ali,21072.58,normal,Terminal A,2026-03-26
+1267,ZTCU9662181,82,open_top,dispatched,Rotterdam,13292.29,normal,Terminal A,2026-08-04
+1268,OPXU1651169,91,standard,in_yard,Piraeus,18406.69,normal,Terminal C,2026-02-25
+1269,WLMU4020978,62,open_top,dispatched,Ningbo,19367.37,normal,Terminal A,2026-02-04
+1270,QRSU9069153,77,standard,in_yard,Ningbo,12909.44,normal,Terminal C,2026-04-16
+1271,VNKU2943123,85,standard,damaged,Los Angeles,11037.04,normal,Terminal A,2026-04-09
+1272,VNKU9206984,100,reefer,dispatched,Rotterdam,9564.19,normal,Terminal C,2026-07-29
+1273,WLMU6422262,8,standard,in_yard,Piraeus,23034.79,normal,Terminal B,2026-07-07
+1274,ZTCU5501616,117,standard,in_yard,Singapore,10021.28,normal,Terminal A,2026-01-08
+1275,OPXU2850788,69,flat_rack,dispatched,Long Beach,5359.6,normal,Terminal B,2026-04-19
+1276,VNKU2514189,103,dangerous_goods,in_yard,Colombo,21937.89,normal,Terminal B,2026-03-15
+1277,OPXU7074992,67,standard,damaged,Nhava Sheva,12283.68,normal,Terminal A,2026-06-05
+1278,OPXU7272664,103,standard,in_yard,Busan,26440.36,low,Terminal B,2026-03-15
+1279,WLMU2720012,97,standard,dispatched,Singapore,6080.58,normal,Terminal A,2026-01-02
+1280,BFPU5149152,81,standard,dispatched,Piraeus,19037.17,low,Terminal C,2026-07-18
+1281,ZTCU2283911,111,standard,dispatched,Tanjung Pelepas,2524.01,normal,Terminal B,2026-03-28
+1282,JHDU7561970,13,standard,dispatched,Ningbo,22404.07,normal,Terminal A,2026-03-10
+1283,QRSU8699159,39,standard,in_yard,Durban,14256.41,normal,Terminal B,2026-02-28
+1284,VNKU5673426,29,standard,delayed,Nhava Sheva,15171.43,normal,Terminal C,2026-07-16
+1285,VNKU7253500,94,dangerous_goods,dispatched,Felixstowe,7825.58,urgent,Terminal B,2026-02-08
+1286,OPXU8500846,99,standard,loaded,Ningbo,10643.32,high,Terminal C,2026-07-25
+1287,WLMU3839639,13,standard,delayed,Durban,8499.2,low,Terminal A,2026-03-11
+1288,JHDU4899524,67,standard,loaded,Tanjung Pelepas,10097.83,normal,Terminal A,2026-06-04
+1289,QRSU7820513,5,open_top,in_yard,Santos,21630.99,high,Terminal A,2026-07-28
+1290,JHDU4955049,41,standard,dispatched,Algeciras,16424.99,normal,Terminal A,2026-08-14
+1291,ZTCU8142094,118,reefer,loaded,Rotterdam,6214.42,normal,Terminal A,2026-03-03
+1292,VNKU2906975,26,standard,loaded,Jebel Ali,18280.29,normal,Terminal A,2026-03-29
+1293,BFPU8015348,96,standard,in_yard,Tanjung Pelepas,27889.35,normal,Terminal A,2026-04-10
+1294,QRSU7234947,67,reefer,in_yard,Ningbo,15604.53,normal,Terminal A,2026-06-05
+1295,WLMU5215097,67,standard,in_yard,Long Beach,26104.07,normal,Terminal A,2026-06-04
+1296,WLMU8950226,22,standard,loaded,Hamburg,14232.83,urgent,Terminal A,2026-01-24
+1297,JHDU4148654,40,standard,in_yard,Felixstowe,10606.91,low,Terminal A,2026-06-22
+1298,OPXU2120248,77,standard,loaded,Busan,10968.89,low,Terminal C,2026-04-16
+1299,QRSU8149873,36,reefer,in_yard,Vancouver,21941.71,urgent,Terminal B,2026-04-06
+1300,WLMU3557213,10,standard,in_yard,Jebel Ali,8836.38,low,Terminal A,2026-07-01
+1301,WLMU5651273,43,flat_rack,dispatched,Vancouver,19380.92,normal,Terminal C,2026-04-01
+1302,BFPU4889479,1,flat_rack,in_yard,Vancouver,5808.78,low,Terminal A,2026-01-07
+1303,ZTCU1875589,42,standard,dispatched,Tanjung Pelepas,19285.9,normal,Terminal A,2026-07-26
+1304,WLMU7597584,31,standard,loaded,Valencia,11229.78,high,Terminal A,2026-08-14
+1305,ZTCU4588635,68,flat_rack,delayed,Antwerp,20495.04,high,Terminal A,2026-05-11
+1306,JHDU5203347,63,reefer,loaded,Tanjung Pelepas,18954.4,low,Terminal C,2026-02-11
+1307,VNKU6804775,110,reefer,in_yard,Nhava Sheva,24783.67,high,Terminal B,2026-06-04
+1308,QRSU4003215,49,flat_rack,damaged,Santos,13494.09,normal,Terminal A,2026-02-24
+1309,QRSU6510502,76,standard,loaded,Antwerp,15072.63,low,Terminal B,2026-01-08
+1310,JHDU5612919,5,reefer,loaded,Antwerp,9128.52,low,Terminal A,2026-07-27
+1311,JHDU8898869,111,flat_rack,dispatched,Valencia,6518.05,normal,Terminal B,2026-03-28
+1312,QRSU1483804,5,reefer,dispatched,Jebel Ali,24643.74,low,Terminal A,2026-07-28
+1313,BFPU3003648,107,standard,dispatched,Singapore,10170.15,high,Terminal C,2026-06-29
+1314,OPXU1279750,110,standard,dispatched,Long Beach,25341.15,low,Terminal B,2026-06-05
+1315,ZTCU7764121,67,standard,dispatched,Singapore,3688.83,high,Terminal A,2026-06-04
+1316,QRSU2408761,94,standard,in_yard,Vancouver,7165.77,normal,Terminal B,2026-02-07
+1317,JHDU1054096,82,standard,loaded,Los Angeles,10877.76,normal,Terminal A,2026-08-04
+1318,VNKU2479112,73,standard,in_yard,Shanghai,6827.13,normal,Terminal A,2026-01-11
+1319,OPXU1175132,99,standard,loaded,Shanghai,24807.16,urgent,Terminal C,2026-07-26
+1320,JHDU4205892,108,reefer,dispatched,Ningbo,3386.72,normal,Terminal B,2026-01-02
+1321,OPXU6293899,36,standard,dispatched,Antwerp,24972.78,low,Terminal B,2026-04-07
+1322,JHDU8375236,34,standard,loaded,Durban,11453.94,high,Terminal B,2026-03-10
+1323,JHDU3860089,107,standard,dispatched,Piraeus,6048.31,normal,Terminal C,2026-06-29
+1324,JHDU5843397,45,standard,dispatched,Algeciras,16341.89,normal,Terminal A,2026-08-10
+1325,WLMU4535328,12,standard,loaded,Singapore,25969.9,normal,Terminal B,2026-06-12
+1326,OPXU8839101,61,reefer,loaded,Piraeus,19115.92,high,Terminal A,2026-06-10
+1327,ZTCU7021076,90,open_top,in_yard,Tanjung Pelepas,14362.89,normal,Terminal B,2026-07-21
+1328,QRSU6138452,24,standard,loaded,Rotterdam,13414.23,normal,Terminal C,2026-05-01
+1329,VNKU8945220,94,dangerous_goods,in_yard,Colombo,17624.49,normal,Terminal B,2026-02-08
+1330,ZTCU4930952,39,dangerous_goods,delayed,Algeciras,4804.24,normal,Terminal B,2026-03-01
+1331,VNKU1479076,74,standard,in_yard,Ningbo,25051.48,urgent,Terminal B,2026-07-19
+1332,BFPU3341247,73,standard,in_yard,Singapore,27228.45,normal,Terminal A,2026-01-11
+1333,QRSU8695935,103,standard,loaded,Hamburg,7210.57,low,Terminal B,2026-03-16
+1334,OPXU4962502,11,open_top,loaded,Busan,6007.59,normal,Terminal B,2026-01-22
+1335,VNKU3673110,1,standard,loaded,Piraeus,20168.27,high,Terminal A,2026-01-08
+1336,VNKU5072535,107,dangerous_goods,in_yard,Hamburg,10277.27,urgent,Terminal C,2026-06-29
+1337,QRSU5751216,99,dangerous_goods,dispatched,Tanjung Pelepas,17520.41,normal,Terminal C,2026-07-26
+1338,JHDU1451244,63,standard,dispatched,Busan,11597.45,normal,Terminal C,2026-02-10
+1339,WLMU7680364,79,open_top,dispatched,Hamburg,14998.69,low,Terminal A,2026-08-25
+1340,ZTCU6697318,56,standard,in_yard,Hamburg,9409.07,normal,Terminal C,2026-04-15
+1341,QRSU8075570,5,standard,loaded,Algeciras,23690.04,normal,Terminal A,2026-07-27
+1342,JHDU2701295,45,reefer,loaded,Rotterdam,6182.98,low,Terminal A,2026-08-10
+1343,VNKU1194425,88,standard,damaged,Piraeus,12983.88,low,Terminal C,2026-03-22
+1344,JHDU2945459,34,reefer,dispatched,Felixstowe,15053.6,high,Terminal B,2026-03-10
+1345,WLMU7121365,109,standard,in_yard,Tanjung Pelepas,15824.5,normal,Terminal C,2026-08-02
+1346,ZTCU6655862,20,flat_rack,dispatched,Antwerp,7137.94,high,Terminal C,2026-05-25
+1347,ZTCU8797432,56,standard,in_yard,Valencia,13966.52,low,Terminal C,2026-04-15
+1348,VNKU6661668,33,reefer,dispatched,Rotterdam,16111.46,low,Terminal B,2026-07-17
+1349,ZTCU8495559,54,standard,dispatched,Vancouver,4903.77,normal,Terminal C,2026-08-25
+1350,OPXU2410072,32,standard,in_yard,Hamburg,18455.92,normal,Terminal A,2026-01-22
+1351,VNKU5095330,45,open_top,delayed,Algeciras,16795.78,low,Terminal A,2026-08-10
+1352,ZTCU3462063,48,reefer,dispatched,Los Angeles,11929.74,urgent,Terminal A,2026-01-04
+1353,JHDU6066483,44,standard,in_yard,Antwerp,20761.44,normal,Terminal C,2026-06-17
+1354,VNKU2953294,108,dangerous_goods,loaded,Ningbo,18005.12,normal,Terminal B,2026-01-02
+1355,BFPU1819251,89,standard,loaded,Tanjung Pelepas,9144.46,normal,Terminal A,2026-05-26
+1356,WLMU1767426,36,reefer,delayed,Ningbo,9089.66,normal,Terminal B,2026-04-06
+1357,VNKU3177128,101,standard,loaded,Long Beach,4525.84,normal,Terminal A,2026-02-11
+1358,ZTCU5829008,29,reefer,dispatched,Felixstowe,17285.77,normal,Terminal C,2026-07-16
+1359,VNKU8979292,70,open_top,in_yard,Long Beach,10310.71,high,Terminal B,2026-06-13
+1360,BFPU9371405,60,standard,dispatched,Piraeus,8648.01,low,Terminal A,2026-04-28
+1361,VNKU6793159,81,standard,dispatched,Algeciras,11598.98,normal,Terminal C,2026-07-18
+1362,JHDU8841337,58,standard,dispatched,Jebel Ali,18230.89,normal,Terminal B,2026-05-26
+1363,ZTCU5762844,98,reefer,loaded,Busan,11757.39,normal,Terminal C,2026-06-29
+1364,BFPU3071885,78,standard,in_yard,Los Angeles,16839.37,low,Terminal A,2026-08-12
+1365,BFPU7729618,99,reefer,loaded,Santos,12872.68,normal,Terminal C,2026-07-26
+1366,QRSU2772324,99,reefer,dispatched,Long Beach,15059.92,normal,Terminal C,2026-07-25
+1367,VNKU9301923,110,dangerous_goods,in_yard,Felixstowe,6081.16,high,Terminal B,2026-06-05
+1368,ZTCU9936647,37,dangerous_goods,dispatched,Jebel Ali,19767.15,low,Terminal C,2026-02-28
+1369,VNKU4168795,54,reefer,dispatched,Hamburg,17852.36,normal,Terminal C,2026-08-24
+1370,WLMU7858110,77,flat_rack,in_yard,Busan,6327.93,normal,Terminal C,2026-04-16
+1371,ZTCU7532030,48,reefer,delayed,Jebel Ali,13901.99,normal,Terminal A,2026-01-04
+1372,VNKU4351841,23,standard,in_yard,Rotterdam,7382.19,normal,Terminal B,2026-07-22
+1373,WLMU8443265,88,flat_rack,dispatched,Felixstowe,15005.59,low,Terminal C,2026-03-22
+1374,OPXU5108127,112,standard,damaged,Rotterdam,21463.82,normal,Terminal C,2026-01-08
+1375,WLMU8888801,111,open_top,in_yard,Tanjung Pelepas,26896.95,high,Terminal B,2026-03-28
+1376,BFPU9961899,92,reefer,loaded,Singapore,9617.04,normal,Terminal C,2026-01-22
+1377,VNKU9582547,47,reefer,loaded,Los Angeles,4694.2,high,Terminal C,2026-08-09
+1378,OPXU7148254,93,standard,in_yard,Busan,22684.38,normal,Terminal A,2026-01-24
+1379,JHDU2242680,43,standard,dispatched,Busan,21681.5,normal,Terminal C,2026-04-02
+1380,BFPU8556058,43,reefer,loaded,Vancouver,2929.36,low,Terminal C,2026-04-02
+1381,OPXU7221849,4,reefer,dispatched,Ningbo,26564.59,low,Terminal B,2026-02-21
+1382,JHDU8379665,61,reefer,in_yard,Hamburg,5809.68,normal,Terminal A,2026-06-10
+1383,JHDU4823830,33,standard,in_yard,Ningbo,5857.45,low,Terminal B,2026-07-17
+1384,WLMU9670766,93,standard,dispatched,Jebel Ali,27282.49,normal,Terminal A,2026-01-25
+1385,QRSU7341430,67,open_top,loaded,Jebel Ali,24640.34,normal,Terminal A,2026-06-05
+1386,VNKU1238783,115,reefer,in_yard,Busan,10042.02,normal,Terminal A,2026-08-02
+1387,BFPU3006411,78,reefer,loaded,Felixstowe,16804.61,normal,Terminal A,2026-08-12
+1388,JHDU9793246,108,open_top,dispatched,Colombo,19270.35,normal,Terminal B,2026-01-02
+1389,WLMU2127390,43,standard,damaged,Nhava Sheva,24688.01,urgent,Terminal C,2026-04-01
+1390,WLMU9773624,58,standard,in_yard,Jebel Ali,19932.17,normal,Terminal B,2026-05-25
+1391,JHDU8651518,30,standard,damaged,Antwerp,16351.37,low,Terminal A,2026-06-03
+1392,BFPU2068187,94,open_top,in_yard,Ningbo,3582.49,normal,Terminal B,2026-02-08
+1393,ZTCU1857027,60,standard,dispatched,Santos,14435.78,normal,Terminal A,2026-04-29
+1394,ZTCU4606999,26,reefer,in_yard,Rotterdam,17124.55,high,Terminal A,2026-03-29
+1395,VNKU4268180,93,reefer,dispatched,Felixstowe,27798.18,normal,Terminal A,2026-01-25
+1396,QRSU9264542,77,reefer,in_yard,Valencia,15369.21,urgent,Terminal C,2026-04-17
+1397,BFPU9928667,34,standard,in_yard,Nhava Sheva,15079.62,normal,Terminal B,2026-03-09
+1398,OPXU9180242,97,standard,delayed,Algeciras,14233.16,low,Terminal A,2026-01-02
+1399,VNKU6111027,98,standard,delayed,Long Beach,18584.96,normal,Terminal C,2026-06-28
+1400,BFPU2823879,25,dangerous_goods,in_yard,Algeciras,9939.98,high,Terminal C,2026-06-25

@@ -21,7 +21,7 @@ any employer. All data is synthetic:
 Building incrementally, phase by phase. See `docs/` for the phase-by-phase build log.
 
 - [x] Phase 1 — Project foundation (FastAPI, config, `/health`, structured logging)
-- [ ] Phase 2 — PostgreSQL
+- [x] Phase 2 — PostgreSQL
 - [ ] Phase 3 — Documents
 - [ ] Phase 4 — OpenSearch
 - [ ] Phase 5 — RAG
@@ -55,4 +55,25 @@ Run tests:
 
 ```bash
 pytest
+```
+
+## Local database (Phase 2)
+
+A formal `docker-compose.yml` arrives in Phase 14. Until then, run Postgres directly:
+
+```bash
+docker run --name terminal-assistant-postgres \
+  -e POSTGRES_USER=terminal -e POSTGRES_PASSWORD=terminal \
+  -e POSTGRES_DB=terminal_assistant \
+  -p 5433:5432 -d postgres:16-alpine
+
+docker exec terminal-assistant-postgres \
+  psql -U terminal -d terminal_assistant -c "CREATE DATABASE terminal_assistant_test;"
+```
+
+Generate synthetic data and load it:
+
+```bash
+python scripts/generate_seed_data.py   # writes data/seed/*.csv (deterministic, seed=42)
+python scripts/load_seed_data.py       # creates tables and loads them into DATABASE_URL
 ```
