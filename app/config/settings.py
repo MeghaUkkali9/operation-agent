@@ -15,6 +15,9 @@ class Settings(BaseSettings):
     database_url: str = "postgresql+psycopg://terminal:terminal@localhost:5433/terminal_assistant"
     test_database_url: str = "postgresql+psycopg://terminal:terminal@localhost:5433/terminal_assistant_test"
 
+    chunk_size: int = 500
+    chunk_overlap: int = 50
+
 
 @lru_cache
 def get_settings() -> Settings:

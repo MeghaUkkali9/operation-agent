@@ -22,7 +22,7 @@ Building incrementally, phase by phase. See `docs/` for the phase-by-phase build
 
 - [x] Phase 1 — Project foundation (FastAPI, config, `/health`, structured logging)
 - [x] Phase 2 — PostgreSQL
-- [ ] Phase 3 — Documents
+- [x] Phase 3 — Documents
 - [ ] Phase 4 — OpenSearch
 - [ ] Phase 5 — RAG
 - [ ] Phase 6 — Hybrid retrieval
